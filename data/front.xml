@@ -1,0 +1,12 @@
+ <front>
+    <journal-meta>
+    <!-- OBRIGATORIO -->
+      <publisher>
+        <publisher-name>Revista BJLAS</publisher-name>
+      </publisher>
+    </journal-meta>
+
+    <!-- OBRIGATORIO -->
+    <article-meta>
+    </article-meta>
+  </front>

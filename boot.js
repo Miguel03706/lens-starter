@@ -28,7 +28,7 @@ var qs = function () {
 // This document gets loaded by default
 // --------
 
-var documentURL = "data/artigo3.xml";
+var documentURL = "data/g.xml";
 
 $(function () {
 
