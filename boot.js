@@ -28,7 +28,7 @@ var qs = function () {
 // This document gets loaded by default
 // --------
 
-var documentURL = "data/g.xml";
+var documentURL = "data/2.xml";
 
 $(function () {
 
