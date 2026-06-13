@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.1" specific-use="sps-1.9" article-type="research-article" xml:lang="es">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">bjlas</journal-id>
+      <journal-title-group>
+        <journal-title>Revista BJLAS</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1676-6288</issn>
+      <publisher>
+        <publisher-name>Revista BJLAS</publisher-name>
+      </publisher>
+    </journal-meta>
+
+    <article-meta>
+      <article-id pub-id-type="doi">10.11606/issn.1676-6288.prolam.2025.233468</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Artículos</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>INTEGRACIÓN PRODUCTIVA EN AMÉRICA LATINA ENTRE 2000 Y 2019</article-title>
+        <trans-title-group xml:lang="pt">
+          <trans-title>INTEGRAÇÃO PRODUTIVA NA AMÉRICA LATINA ENTRE 2000 E 2019</trans-title>
+        </trans-title-group>
+        <trans-title-group xml:lang="en">
+          <trans-title>PRODUCTIVE INTEGRATION IN LATIN AMERICA BETWEEN 2000 AND 2019</trans-title>
+        </trans-title-group>
+      </title-group>
+
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">0000-0002-2439-4775</contrib-id>
+          <name>
+            <surname>Torres</surname>
+            <given-names>Ricardo Lobato</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="fn" rid="fn0">*</xref>
+          <xref ref-type="corresp" rid="c1"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">0000-0001-6629-2147</contrib-id>
+          <name>
+            <surname>González</surname>
+            <given-names>Carlos Rodríguez</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">2</xref>
+          <xref ref-type="fn" rid="fn1">**</xref>
+        </contrib>
+      </contrib-group>
+
+      <aff id="aff1">
+        <label>1</label>
+        <institution content-type="original">Universidade Federal do Paraná, Brasil</institution>
+        <institution content-type="orgname">Universidade Federal do Paraná</institution>
+        <country country="BR">Brasil</country>
+      </aff>
+      <aff id="aff2">
+        <label>2</label>
+        <institution content-type="original">Universidad del País Vasco, España</institution>
+        <institution content-type="orgname">Universidad del País Vasco</institution>
+        <country country="ES">España</country>
+      </aff>
+
+      <author-notes>
+        <corresp id="c1">Correo: <email>ricardotorres@ufpr.br</email></corresp>
+        <fn id="fn0">
+          <label>*</label>
+          <p>Doctor en Economía. Profesor de la Universidade Federal do Paraná, Brasil. Autor correspondiente.</p>
+        </fn>
+        <fn id="fn1">
+          <label>**</label>
+          <p>Doctor en Economía. Profesor de la Universidad del País Vasco, España. Correo: <email>carlos.rodriguezg@ehu.eus</email></p>
+        </fn>
+      </author-notes>
+
+      <pub-date date-type="pub" publication-format="electronic">
+        <day>31</day>
+        <month>12</month>
+        <year>2025</year>
+      </pub-date>
+      
+      <history>
+        <date date-type="received">
+          <day>31</day>
+          <month>01</month>
+          <year>2024</year>
+        </date>
+        <date date-type="accepted">
+          <day>30</day>
+          <month>12</month>
+          <year>2025</year>
+        </date>
+      </history>
+
+      <abstract>
+        <title>Resumen:</title>
+        <p>Este artículo analiza la evolución de la estructura del comercio intra- y extrarregional de la ALADI, la CAN y el Mercosur entre 2000 y 2019, así como la integración productiva en estos bloques. Se utilizaron datos comerciales de las Naciones Unidas, clasificando los productos según sus etapas de producción. El estudio se centró en el comercio de bienes intermedios —piezas y componentes— y bienes de capital, como una forma de evaluar la complementariedad de la producción industrial de los países miembros y la posible formación de cadenas de valor regionales. Los resultados mostraron que, hasta 2009, existió una tendencia al aumento de la integración productiva, pero esta se revirtió en los años posteriores, de manera que el grado de integración tras 20 años es menor que al inicio del siglo. El Mercosur es el principal responsable tanto de la integración como de la posterior desintegración productiva observada. Estos datos sugieren que la región está retrocediendo en sus relaciones comerciales internas e externas, especializándose en productos basados en recursos naturales, lo que tiende a agravar la histórica dependencia económica y plantea nuevos desafíos para el proyecto de integración latinoamericana.</p>
+      </abstract>
+
+      <trans-abstract xml:lang="pt">
+        <title>Resumo:</title>
+        <p>Este artigo analisa a evolução da estrutura de comércio intra e extrarregional da ALADI, CAN e Mercosul entre 2000 e 2019, bem como a integração produtiva nesses blocos. Utilizaram-se dados comerciais das Nações Unidas, classificando os produtos de acordo com as etapas de produção. Enfocou-se o comércio de bens intermediários —partes e componentes— e bens de capital, como forma de avaliar a complementaridade da produção industrial dos países membros e a possível formação de cadeias regionais de valor. Os resultados mostraram que, até 2009, houve uma tendência de aumento da integração produtiva, mas que se reverteu nos anos seguintes, de tal maneira que o grau de integração após 20 anos é menor do que no início do século. O Mercosul é o principal responsável tanto pela integração quanto pela consequente desintegração produtiva observada. Esses dados sugerem que a região está regredindo em suas relações comerciais internas e externas, especializando-se em produtos baseados em recursos naturais, o que tende a agravar o problema histórico da dependência e implica novos desafios para o projeto de integração econômica latino-americana.</p>
+      </trans-abstract>
+
+      <trans-abstract xml:lang="en">
+        <title>Abstract:</title>
+        <p>This article analyzes the evolution of the intra- and extra-regional trade structure of ALADI, CAN, and Mercosur between 2000 and 2019, as well as productive integration within these blocs. United Nations trade data were used to classify products according to their production stages. The focus was on the trade of intermediate goods —parts and components— and capital goods, as a way to assess the complementarity of industrial production among member countries and the potential formation of regional value chains. The results showed that, until 2009, there was a trend toward increasing productive integration; however, this trend reversed in the following years, so that the degree of integration after 20 years was lower than at the beginning of the century. Mercosur is the main driver of both the integration and the subsequent productive disintegration observed. These findings suggest that the region is regressing in its internal and external trade relations, specializing in products based on natural resources, which tends to exacerbate the historical problem of dependency and poses new challenges for the Latin American economic integration project.</p>
+      </trans-abstract>
+
+      <kwd-group xml:lang="es">
+        <title>Palabras clave:</title>
+        <kwd>Integración produtiva</kwd>
+        <kwd>Comércio intra e extrarregional</kwd>
+        <kwd>Mercosul</kwd>
+        <kwd>Cadeias de valor regionais</kwd>
+        <kwd>Desintegración productiva</kwd>
+      </kwd-group>
+
+      <kwd-group xml:lang="pt">
+        <title>Palavras-chave:</title>
+        <kwd>Integração produtiva</kwd>
+        <kwd>Comércio intra e extrarregional</kwd>
+        <kwd>Mercosul</kwd>
+        <kwd>Cadeias de valor regionais</kwd>
+        <kwd>Desintegração produtiva</kwd>
+      </kwd-group>
+
+      <kwd-group xml:lang="en">
+        <title>Keywords:</title>
+        <kwd>Productive integration</kwd>
+        <kwd>Intra and extra-regional trade</kwd>
+        <kwd>Mercosur</kwd>
+        <kwd>Regional value chains</kwd>
+        <kwd>Productive disintegration</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+
+  <body>
+    <sec sec-type="intro">
+      <title>1. Introducción</title>
+      <p>Estudios previos mostraron que, al final de la primera década del siglo XXI, América Latina avanzó en su integración comercial y productiva (CASTILHO, 2012; CORBELLA, 2013; SOUZA; CASTILHO, 2016; CORBELLA; SOUZA, 2017). Sin embargo, desde mediados de la segunda década, esta tendencia se revirtió. Algunos países, especialmente los del Mercosur, explican gran parte de este fenómeno (NEVES; MARIANO, 2022). En comparación con otras regiones, como la Unión Europea o la ASEAN, la integración productiva latinoamericana sigue siendo baja y ha mostrado signos de desintegración en los últimos años (SOUZA; CASTILHO, 2016).</p>
+      <p>Las teorías estructuralistas y neoestructuralistas destacan la integración regional como clave para el desarrollo económico. Sin embargo, en las últimas dos décadas, la especialización regresiva ha reforzado el perfil primario-exportador de la región (VÁZQUEZ LÓPEZ, 2011). Además, el auge de China como destino de exportaciones y fuente de importaciones ha cambiado el patrón comercial, mientras que la relación con la UE se mantiene y la importancia de EE. UU. ha disminuido, excepto en el caso de México (CEPAL, 2024).</p>
+      <p>Este artículo analiza la evolución del comercio y de la integración productiva regional en la ALADI y en sus principales subbloques (CAN y Mercosur) entre 2000 y 2019. Este período abarca transformaciones clave en la geopolítica global, desde la hiperglobalización hasta la crisis de 2008 y la posterior “desglobalización” (RODRIK, 2011; MANZI, 2019). Como destacan estudios previos (BALDWIN, 2016; MANZI, 2019; CONSTANTINESCU; MATTOO; RUTA, 2015), la crisis financiera internacional de 2008-2009 provocó una desaceleración del comercio mundial y una reconfiguración de las cadenas globales de valor, concentrando las redes de suministro en Asia y reduciendo el espacio de América Latina en la manufactura intermedia. A ello se sumaron la reorientación exportadora hacia China e la reprimarización del patrón exportador, junto con el enfriamiento político del regionalismo progresista, lo que contribuyó a la debilitación de los vínculos intrarregionales y al estancamiento de los proyectos de integración productiva en Sudamérica, como los de UNASUR (NEVES; MARIANO, 2022). No se incluyó la pandemia, dado su impacto en el comercio y la falta de datos para muchos países.</p>
+      <p>El artículo se estructura de la siguiente manera: la próxima sección revisa la literatura sobre integración comercial y productiva en América Latina; luego, se presentan los métodos utilizados; la cuarta sección expone y analiza los datos estadísticos; y la última recoge las conclusiones.</p>
+    </sec>
+
+    <sec>
+      <title>2. Revisión de literatura</title>
+      <p>El estudio bibliométrico de Malpica Zapata, Nauzan Ceballos y Silva Rodríguez (2022) mostró que los estudios sobre integración económica en América Latina han crecido en las últimas décadas. Sin embargo, la integración comercial y productiva orientada al desarrollo industrial y la superación de la dependencia ha perdido espacio frente a temas como el desarrollo sostenible y el cambio climático. Aunque el interés académico ha crecido, muchas publicaciones provienen de fuera de la región. Pese a su número limitado, estos estudios han empleado métodos de evaluación económica similares, basados en la hipótesis de que la fragmentación manufacturera impulsada por la globalización podría facilitar una división del trabalho que beneficie a los bloques económicos latinoamericanos.</p>
+      <p>En la teoría estructuralista latinoamericana, la desintegración productiva puede conducir a una especialización regresiva al debilitar los encadenamientos industriales entre los países de la región y, por consiguiente, limitar las oportunidades de desarrollo tecnológico interno. Ello tiende a reforzar su dependencia de las exportaciones primarias y la persistencia del patrón centro-periferia que ha caracterizado históricamente a las economías latinoamericanas (PREBISCH, 1950; FURTADO, 1961; OCAMPO, 2001). En el marco del debate sobre la nueva dependencia tecnológica-digital, algunos autores han señalado que las economías latinoamericanas corren el riesgo de replicar relaciones de subordinación al integrarse en plataformas y servicios tecnológicos controlados por grandes grupos globales, lo que complementa la tradicional dependencia comercial (FRANCO; GRAÑA; RIKAP, 2024; VALENTE; GROHMANN, 2024).</p>
+      <p>En los estudios contemporáneos sobre la integración latinoamericana se observan resultados dispares: mientras algunos trabajos señalan avances en la articulación productiva regional, otros evidencian una creciente fragmentación, así como acuerdos bilaterales y relaciones comerciales más intensas con países extrarregionales. Castilho (2012) examina la integración de los países miembros de la ALADI entre 1995 y 2009, cuando la asociación tenía once miembros. Fue uno de los primeros en aplicar el índice de participación relativa de bienes intermedios y de capital, propuesto por Lemoine y Ünal-Kesenci (2002), al comercio intrarregional de América Latina. La autora identifica una integración productiva baja, aunque en aumento; una conexión más fuerte de México con EE. UU. que con la región; una integración más notable y beneficiosa para Argentina, Brasil y México; y un crecimiento de China como destino de exportaciones y fuente de importaciones, desplazando a socios tradicionales, incluso a EE. UU. en el caso mexicano. Los resultados destacan a la ALADI como destino clave de exportaciones e importaciones de bienes intermedios y de capital, y posicionan a la región como demandante de estos bienes para la producción o el ensamblaje de bienes finales.</p>
+      <p>Se ha demostrado que los países de la ALADI exportan principalmente bienes primarios y manufacturas basadas en recursos naturales. Como consecuencia, existe una baja integración en las cadenas globales de valor, en las cuales las exportaciones de bienes intermedios industriales, como partes y componentes, son clave. A diferencia de Asia, donde se observa una fuerte interdependencia productiva y comercial, en América Latina las exportaciones intrarregionales son más diversificadas y de mayor valor añadido. No obstante, el suministro de partes, componentes y bienes de capital proviene de socios extrarregionales, como China, la UE y EE. UU. Aunque hay cierta articulación productiva en la ALADI, especialmente en Brasil, Argentina y México, la región aún enfrenta grandes desafíos para lograr una integración productiva más profunda y una inserción dinámica en las cadenas de valor internacionales, como ocurre en Asia (CASTILHO, 2012).</p>
+      <p>Ya el estudio de Corbella (2013) aplica un enfoque similar, abarcando todos los países de UNASUR entre 1985 y 2010 (12 miembros en ese entonces, no todos coincidentes con ALADI). Desarrolla un índice sistemático de integración comercial basado en Prakas Pal, Dietzenbacher y Basu (2007), cuyos resultados indican un aumento de la integración en UNASUR, siendo el Mercosur el bloque con los mayores niveles, superando a la CAN. La inclusión de Venezuela y Chile en distintos bloques refleja la complejidad de la integración regional. A pesar de fluctuaciones y crisis, la tendencia hasta ese momento apuntaba a una creciente interdependencia comercial, lo cual podría servir de base para futuras políticas de integración y cooperación económica en Sudamérica (CORBELLA, 2013).</p>
+      <p>A su vez, la investigación de Corbella y Souza (2017) analiza la integración productiva en la ALADI, el Mercosur, la CAN y acuerdos bilaterales entre 1995 y 2013, incluyendo 11 países. Basándose en indicadores de participación relativa en el comercio de partes, componentes y bienes de capital, así como en el índice sistemático de integración comercial, los resultados confirman un aumento de la integración productiva, aunque en niveles bajos. Se mantiene el dominio de Argentina y Brasil en la exportación intrarregional de bienes intermedios, y de México en la extrarregional. El Mercosur muestra la mayor integración, mientras que en otros niveles los indicadores son modestos. Sin embargo, el estudio no compara internacionalmente el proceso de integración, limitándose a las configuraciones dentro de la ALADI.</p>
+      <p>En otro trabajo, Souza y Castilho (2016) analizan el impacto de los acuerdos comerciales en la integración productiva de la ALADI, también basado en la clasificación por etapas de producción propuesta por Lemoine y Ünal-Kesenci (2002). Los hallazgos indican que la integración de la ALADI en redes productivas internacionales y regionales es significativamente menor que la de Asia, América del Norte y Europa. Aunque los acuerdos de la ALADI tienen un efecto positivo, este resulta moderado. A pesar de la relevancia del comercio regional para algunos países y sectores, no ha impulsado significativamente el desarrollo productivo, especialmente el industrial. Las autoras concluyen que, aunque la creación de la ALADI ha contribuido al aumento del comercio intrarregional, la integración productiva sigue siendo limitada. Además, su impacto es sustancialmente inferior al generado por el TLCAN, la UE y la ASEAN, por ejemplo. La ALADI ha impulsado principalmente el comercio de bienes primarios y algunos productos industrializados, pero la formación de una cadena regional de valor para partes, componentes y bienes de capital continúa siendo bastante limitada..</p>
+      <p>El artículo de Reig Lorenzi y Puchet Anyul (2019) analiza la integración comercial de Uruguay en el Mercosur y de México en el TLCAN (1990-2016) mediante un análisis estructural. Los resultados muestran trayectorias divergentes: el TLCAN profundizó su integración, mientras el Mercosur avanzó poco. México se integró más que Uruguay, con un aporte mucho mayor a su propio bloque. El Mercosur presentó un comercio intrarregional bajo y decreciente, a diferencia del TLCAN, donde fue alto y creciente. Estas diferencias reflejan patrones comerciales distintos, con el TLCAN consolidando cadenas de valor intrarregionales, mientras el Mercosur vio reducido su comercio intrabloque en favor de China.</p>
+      <p>Cavalcante, Milan y Morrone (2022) analizan la integración productiva entre Brasil y Argentina en el Mercosur (1993-2019) mediante indicadores de comercio intraindustrial y de bienes intermedios. Siguiendo a Lemoine y Ünal-Kesenci (2002), el estudio se centra en partes, componentes y bienes intermedios semiacabados, en lugar de incluir bienes de capital. Los resultados muestran fases de crecimiento, estancamiento y reversión: un aumento hasta 2000, mayor integración entre 2008 y 2013 y caída desde 2018. Aunque el comercio de bienes intermedios creció desde 2003, su importancia relativa fue limitada y fluctuante, reflejando una integración inestable y no sostenida.</p>
+      <p>A la luz de lo expuesto, se verifica que la literatura muestra resultados contradictorios en relación con la integración económica en América Latina. Parte de ello se debe a las diferencias en el recorte temporal y en los países incluidos en los análisis. Aun así, resultan evidentes los resultados modestos obtenidos en la región cuando se la compara con otros bloques, como la Unión Europea y la ASEAN (SOUZA; CASTILHO, 2016). En gran medida, la explicación de estos movimientos se encuentra en los contextos político-institucionales. El regionalismo postliberal latinoamericano de comienzos de los años 2000 representó una reacción frente al regionalismo abierto; cuando, mediante la ascensión de gobiernos progresistas, se buscó una mayor autonomía política, inclusión social y cooperación Sur-Sur (SANAHUJA, 2009). Por otro lado, el impulso de esa iniciativa fue efímero. Como señala Briceño-Ruiz (2021), la fragilidad institucional de los organismos regionales y las asimetrías internas, incluso en el Mercosur, limitaron la aplicación de políticas más efectivas y propiciaron un proceso de desintegración tan pronto como se produjo el cambio hacia gobiernos de orientación más liberal.</p>
+    </sec>
+
+    <sec>
+      <title>3. Metodología</title>
+      <p>Se recopilaron y analizaron datos de exportaciones (FOB) e importaciones (CIF) de la base COMTRADE de las Naciones Unidas, para el período de 2000 a 2019, en dólares corrientes. Se delimitó la ALADI (incluyendo CAN y Mercosur) como región de estudio, contrastando los flujos de comercio intra- y extrarregionales. El comercio extrabloque fue dividido en las siguientes regiones: Estados Unidos (EE. UU.), Unión Europea (UE), China y el resto del mundo (RM). Esta clasificación se fundamenta en la significativa importancia de esos países en las relaciones comerciales de los miembros de ALADI. Debido a la indisponibilidad de datos para Panamá, Venezuela y Cuba en muchos años de la serie temporal, se los excluyó del análisis. Por lo tanto, en la próxima sección se usa el término “ALADI10” para referirse a los 10 Estados miembros que se incluyen en nuestro estudio. También se presentan los datos excluyendo a México, debido al peso significativo de las transacciones con los EE. UU. en los flujos comerciales de la región. Esta variante de análisis, denominada “ALADI9”, ofrece una visión de las interacciones comerciales entre los demás países miembros del bloque, con el objetivo de evitar sesgos analíticos causados por el TLCAN.</p>
+      <p>Los datos fueron recolectados según la clasificación BEC, 4.ª revisión (Broad Economic Categories), y, en seguida, fueron reclasificados de acuerdo con las etapas de producción, conforme a la metodología empleada por Lemoine y Ünal-Kesenci (2002). En primer lugar, esta clasificación ayuda a entender cómo los procesos de producción se fragmentan y se distribuyen geográficamente entre distintos países, reflejando sus ventajas comparativas y especializaciones productivas. La creciente fragmentación internacional de los procesos productivos dio lugar a la formación de cadenas globales de valor, en las cuales las tareas manufactureras y de servicios se distribuyen jerárquicamente entre países. Este fenómeno abrió nuevas oportunidades de inserción para las economías periféricas, pero también planteó desafíos para el avance industrial y tecnológico (GEREFFI, 1999; BALDWIN, 2011; STURGEON, 2013). Esto es especialmente relevante en un contexto de globalización y reorganización internacional de la producción, donde la eficiencia relativa y los costos asociados a la producción y comercio de partes, componentes y bienes de capital son clave para el desarrollo de redes productivas regionales y globales.</p>
+      <p>Partiendo de esta base metodológica, las etapas de producción se desglosan en cinco niveles de agregación: (i) bienes primarios; (ii) bienes intermedios – semiacabados; (iii) bienes intermedios – partes y componentes; (iv) bienes finales – bienes de capital; y (v) bienes finales – bienes de consumo. Este método de organización de datos excluye los valores de exportación e importación que figuran en el código 7 de la clasificación BEC, rev. 4. Este código se asigna a productos que no pueden especificarse en otros códigos. En consecuencia, los valores totales de los flujos comerciales no concuerdan como suma de esta u otras formas de clasificación de mercancías según COMTRADE. No obstante, es importante destacar que esta discrepancia equivale, en promedio durante el período, a menos del 5% de los valores exportados e importados a nivel mundial. También se optó por utilizar promedios quinquenales en los indicadores de comercio para reducir el componente cíclico de las series y centrar el análisis en los factores más estructurales y de largo plazo. No obstante, se verificó que el uso de series anuales o de otras periodizaciones no alteraría sustancialmente los resultados, por lo que no se consideró necesario realizar pruebas adicionales de robustez.</p>
+      <p>Cabe señalar algunas limitaciones derivadas del método empleado. La exclusión de determinados países, como Venezuela, responde a la falta de reporte sistemático de sus estadísticas de comercio exterior a las Naciones Unidas, aunque ello implique no considerar a un actor clave durante el período de mayor integración regional, especialmente tras su adhesión al Mercosur y la creación de la UNASUR. Asimismo, el recorte sectorial aplicado excluye los bienes primarios y los bienes finales de consumo, que poseen relevancia en el intercambio intrarregional. No obstante, se priorizó el análisis de los bienes intermedios industriales como una aproximación más precisa a la integración en cadenas regionales de valor, dado que el enfoque en bienes finales reflejaría únicamente el comercio regional liberalizado</p>
+      <p>Para el análisis de la integración productiva en ALADI, se calculó la medida global del índice sistémico de integración (ISI) formulado por Prakas Pal, Dietzenbacher y Basu (2007), lo cual también fue empleado en varios estudios anteriores. Para su cálculo, se consideró apenas los flujos comerciales (iii) bienes intermedios – partes y componentes y (iv) bienes finales – bienes de capital de la clasificación mencionada anteriormente. Esta elección se justifica por el interés de nuestro trabajo en analizar la complementariedad de las transacciones de naturaleza industrial, siendo el sector manufacturero el que presenta mayor potencial para la fragmentación productiva y la creación de cadenas de valor regionales o globales. Esta forma de análisis está en sintonía con la literatura revisada en la sección anterior. La memoria de cálculo del ISI se encuentra en el <xref ref-type="app" rid="app1">Anexo I</xref>.</p>
+    </sec>
+
+    <sec>
+      <title>4. Resultados</title>
+      <p>Esta sección se divide en dos partes. La primera analiza la evolución del comercio intra- y extrabloque de la ALADI, destacando a sus principales socios (EE. UU., China y la UE) para caracterizar la estructura regional. La segunda evalúa los índices de integración productiva, con datos más recientes que los de la literatura previa, evidenciando una tendencia a la desintegración en la región.</p>
+      <sec>
+        <title>4.1 Evolución estructural del comercio en la ALADI</title>
+        <p>En los 20 años analizados, la ALADI mantuvo su participación en las exportaciones mundiales y aumentó su proporción de importaciones globales (<xref ref-type="fig" rid="fig1">Figura 1</xref>). Excluyendo a México, su participación en el comercio mundial cae significativamente, reflejando la fuerte relación mexicana con EE. UU. en el TLCAN. Mientras ALADI10 mantuvo su participación exportadora en torno al 5%, ALADI9 creció del 2,2% al 3,1%, para luego descender al 2,7%. En importaciones, ALADI10 pasó del 4% al 5%, y ALADI9, del 2% a casi el 3%. Estos datos reflejan estabilidad en exportaciones y crecimiento en importaciones, a nivel mundial.</p>
+        <fig id="fig1">
+          <label>Figura 1</label>
+          <caption>
+            <title>Participación promedia de ALADI en las exportaciones e importaciones mundiales de 2000 a 2019 (%)</title>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="image9.png"/>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="image7.png"/>
+          <attrib>Fuente: COMTRADE. Elaborado por los autores (mar. 2024).</attrib>
+        </fig>
+        <p>Por su parte, la <xref ref-type="fig" rid="fig2">Figura 2</xref> muestra la evolución de los destinos de exportación de partes, componentes y bienes de capital de ALADI10 durante el mismo período. Como se observa, las exportaciones regionales crecieron hasta el 17% en el quinquenio 2010-2014, pero se redujeron al 13% al final del período, quedando por debajo del valor inicial. También se nota una disminución en la importancia de EE. UU. y, en menor medida, de la UE, especialmente en el último quinquenio. Por otro lado, China aumentó su participación del 2% al 11%, consolidándose como un mercado fundamental para los países latinoamericanos. Además, el crecimiento de exportaciones al resto del mundo indica una diversificación geográfica, reflejando la búsqueda de nuevos mercados y una mayor base comercial.</p>
+        <fig id="fig2">
+          <label>Figura 2</label>
+          <caption>
+            <title>Participación relativa de las exportaciones de ALADI10 según la región de destino (% del total), promedios quinquenales de 2000 a 2019</title>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="image10.png"/>
+          <attrib>Fuente: COMTRADE. Elaborado por los autores (mar. 2024).</attrib>
+        </fig>
+        <p>La <xref ref-type="fig" rid="fig3">Figura 3</xref> analiza las tendencias comerciales de ALADI9, excluyendo a México, y complementa el análisis de ALADI10. En este grupo, la disminución de EE. UU. y la UE como destinos de exportación es más evidente, mientras que China gana relevancia, aumentando su participación del 5% (2000-2004) al 20% (2015-2019). También muestra una mayor diversificación geográfica, con exportaciones al resto del mundo subiendo del 26% al 30%. Además, las exportaciones intrarregionales cayeron del 27% al 22%, reflejando un cambio en sentido contrario al de la integración. Aun así, estas siguen representando entre un cuarto y un quinto del comercio total, manteniendo su importancia.</p>
+        <fig id="fig3">
+          <label>Figura 3</label>
+          <caption>
+            <title>Composición de las exportaciones de ALADI9 (excluido México), por región de destino (% del total), promedios quinquenales de 2000 a 2019</title>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="image12.png"/>
+          <attrib>Fuente: COMTRADE. Elaborado por los autores (mar. 2024).</attrib>
+        </fig>
+        <p>La <xref ref-type="fig" rid="fig4">Figura 4</xref> muestra la composición de las importaciones de ALADI10 por origen. A lo largo de dos décadas, las importaciones desde ALADI10 crecieron hasta el 17% en el segundo quinquenio, pero cayeron al 13% en el último período. También disminuyó la participación de EE. UU., mientras que la UE se mantuvo estable, reflejando una relación comercial más consolidada. China destaca como el principal proveedor del bloque, aumentando su participación del 5% al 19% en 20 años, impulsada por su competitividad y acuerdos de cooperación sur-sur. Las importaciones del resto del mundo crecieron hasta el 25% (2005-2009 y 2010-2014), pero bajaron al 22%, sugiriendo menor diversificación reciente.</p>
+        <fig id="fig4">
+          <label>Figura 4</label>
+          <caption>
+            <title>Composición de las importaciones de ALADI10 según región de origen (% del total), promedios quinquenales de 2000 a 2019</title>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="image14.png"/>
+          <attrib>Fuente: COMTRADE. Elaborado por los autores (mar. 2024).</attrib>
+        </fig>
+        <p>La <xref ref-type="fig" rid="fig5">Figura 5</xref> desglosa las importaciones de ALADI9 por región de origen en los últimos 20 años. Se destaca la caída de las importaciones intrarregionales, que disminuyeron del 30% al 23%, lo que denota un debilitamiento de las cadenas regionales de valor. Simultáneamente, la participación de China como fuente de importaciones creció del 5% al 20%, desplazando a EE. UU. y posiblemente sustituyendo importaciones intrarregionales. Esto refleja la creciente influencia de China en el comercio mundial. Ya la UE mantuvo una participación estable, evidenciando una relación comercial más resistente a cambios geopolíticos globales.</p>
+        <fig id="fig5">
+          <label>Figura 5</label>
+          <caption>
+            <title>Composición de las importaciones de ALADI9 (excluido a México), según región de origen (% del total), promedios quinquenales de 2000 a 2019</title>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="image5.png"/>
+          <attrib>Fuente: COMTRADE. Elaborado por los autores (marzo 2024).</attrib>
+        </fig>
+      </sec>
+
+      <sec>
+        <title>4.2 ANÁLISIS DE LA INTEGRACIÓN PRODUCTIVA EN AMÉRICA LATINA</title>
+        <p>La <xref ref-type="fig" rid="fig6">Figura 6</xref> compara el porcentaje de exportaciones de partes, componentes y bienes de capital en regiones seleccionadas a lo largo del tiempo. A nivel mundial (excluyendo ALADI), este segmento pasó de representar 40% en 2000-2004 a un tercio en el período más reciente, sugiriendo cambios en la estructura productiva y comercial global. En la UE, la proporción de estas exportaciones aumentó levemente en el último quinquenio, alcanzando 34,5%, lo que podría indicar mayor estabilidad e integración en las cadenas globales de valor. En contraste, ALADI muestra fluctuaciones: ALADI10 redujo su participación de 31,7% a 24,6% en el período de 2010-2014, recuperándose luego a 31%. Excluyendo México, ALADI9 presenta una caída constante, de 13,7% a 9,7% en los últimos dos quinquenios. </p>
+        <p>México se destaca dentro de ALADI10, con un 46,2% de exportaciones de bienes intermedios en el primer quinquenio, superando el 50% en el quinquenio más reciente, gracias a su estrecha relación con EE. UU. dentro del TLCAN. Mientras México refuerza su integración en las cadenas globales de valor, el resto de ALADI ve reducida su participación, especialmente en manufactura de productos intermedios y bienes de capital, lo que plantea desafíos para la región en términos de integración y comercio global.</p>
+        <fig id="fig6">
+          <label>Figura 6</label>
+          <caption>
+            <title>Exportaciones de partes y componentes y de bienes de capital como porcentaje del total exportado por regiones seleccionadas, promedios quinquenales de 2000 a 2019</title>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="image11.png"/>
+          <attrib>Fuente: COMTRADE. Elaborado por los autores (marzo 2024).</attrib>
+        </fig>
+        <p>La <xref ref-type="fig" rid="fig7">Figura 7</xref> analiza las importaciones de partes, componentes y bienes de capital, complementando el estudio de las exportaciones. A nivel mundial (excluyendo ALADI), la proporción de estas importaciones disminuyó de 35,9% al inicio del período a 32,8% en el quinquenio más reciente, reflejando ajustes en las cadenas productivas y estrategias de abastecimiento. En la UE, la tendencia es similar, con una reducción de aproximadamente un tercio a 31%, indicando estabilidad con una leve baja. En contraste, ALADI mostró una mayor dependencia de bienes intermedios y de capital externos: sus importaciones pasaron de 42,4% a 40,9% en el mismo período, evidenciando la necesidad sostenida de insumos foráneos.</p>
+        <fig id="fig7">
+          <label>Figura 7</label>
+          <caption>
+            <title>Importaciones de partes y componentes y de bienes de capital como porcentaje del total exportado por regiones seleccionadas, promedios quinquenales de 2000 a 2019</title>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="image13.png"/>
+          <attrib>Fuente: COMTRADE. Elaborado por los autores (marzo 2024).</attrib>
+        </fig>
+        <p>Excluyendo México (ALADI9), las importaciones se alinean con la media global, bajando de 35,7% a 34,3% en el período considerado, destacando su menor papel como exportador de estos bienes. México, en cambio, supera la media global, con un comportamiento pendular: caída en el quinquenio 2010-2014 y aumento a 48,1% en el quinquenio 2015-2019, influenciado por su comercio con EE. UU. y China. En general, ALADI9 depende de bienes intermedios y de capital externos, mientras que México exhibe una integración más profunda en estas importaciones, reflejando diferencias dentro del bloque.</p>
+        <p>La <xref ref-type="fig" rid="fig8">Figura 8</xref> analiza la contribución de las exportaciones de partes, componentes y bienes de capital en la CAN, el Mercosur, ALADI9 y el mundo (excluyendo ALADI). La CAN muestra una participación baja y decreciente en estos productos, representando solo un 2,2% de sus exportaciones en el quinquenio más reciente, lo que indica una integración productiva limitada en manufactura. El Mercosur, aunque lidera en ALADI9, también presenta una caída en su participación, del 19% en el quinquenio 2000-2004 al 14,1% en el quinquenio 2015-2019, evidenciando una reducción en su integración regional.</p>
+        <fig id="fig8">
+          <label>Figura 8</label>
+          <caption>
+            <title>Exportaciones de partes y componentes y de bienes de capital como porcentaje del total exportado comparadas de CAN y Mercosur, promedios quinquenales de 2000 a 2019</title>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="image6.png"/>
+          <attrib>Fuente: COMTRADE. Elaborado por los autores (marzo 2024).</attrib>
+        </fig>
+        <p>Ya la <xref ref-type="fig" rid="fig9">Figura 9</xref> muestra que las diferencias en las importaciones entre CAN y Mercosur son menos marcadas. En la CAN, las importaciones de bienes intermedios y de capital se han mantenido estables en torno al 30% del total de sus importaciones, ligeramente por debajo del promedio mundial y de ALADI9, reflejando una demanda constante sin cambios significativos en su integración a las cadenas globales de valor. El Mercosur, en cambio, presenta una ligera caída en estas importaciones, de 38,3% a 36,9% en el período de veinte años. A pesar de la reducción, sigue superando a la CAN, ALADI9 e o promedio mundial, consolidándose como un importante demandante de estos bienes.</p>
+        <fig id="fig9">
+          <label>Figura 9</label>
+          <caption>
+            <title>Importaciones de partes y componentes y de bienes de capital como porcentaje del total exportado comparadas de CAN y Mercosur, promedios quinquenales de 2000 a 2019</title>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="image8.png"/>
+          <attrib>Fuente: COMTRADE. Elaborado por los autores (marzo 2024).</attrib>
+        </fig>
+        <p>Ahora, analizando el índice sistémico de integración productiva en ALADI10, según los datos de la <xref ref-type="fig" rid="fig10">Figura 10</xref>, se notan algunas características relevantes. Primero, que el nivel de integración productiva entre los cuatro países miembros del Mercosur es bastante superior en relación con el grupo de diez países de ALADI. En segundo lugar, se nota que aún así, como ya se ha apuntado en la literatura, el grado de integración del Mercosur y de ALADI10 es muy inferior a lo observado en la Unión Europea. </p>
+        <p>Cabe destacar aún que, en el segundo período de análisis, hubo un alza del índice en ALADI10 y Mercosur, la cual llevó a otros autores a concluir por una tendencia hacia mayor integración productiva en Latinoamérica. Pero en los años siguientes se observa una reversión de esa tendencia. Incluso, al final del período el nivel de integración de ALADI10 es inferior al del comienzo del siglo, y el de Mercosur vuelve a su valor inicial del período. </p>
+        <fig id="fig10">
+          <label>Figura 10</label>
+          <caption>
+            <title>Índice sistémico de Integración en ALADI10, Mercosur y Unión Europea, promedios quinquenales de 2000 a 2019, para bienes intermedios – partes y componentes y bienes de capital</title>
+          </caption>
+          <graphic mimetype="image" mime-subtype="png" xlink:href="image4.png"/>
+          <attrib>Fuente: COMTRADE. Elaborado por los autores (marzo 2024).</attrib>
+        </fig>
+        <p>El conjunto de indicadores aquí analizados sugiere que América Latina ha perdido espacio en las exportaciones regionales de partes, componentes y bienes de capital, cediendo terreno de manera creciente a proveedores externos, especialmente de China. México se configura como una excepción, debido a su mayor integración con la economía estadounidense. En gran medida, las cifras aquí presentadas reflejan lo que ocurre en el Mercosur. Aunque, en consonancia con estudios anteriores, hubo una tendencia al aumento de la integración productiva hasta finales de la primera década de este siglo, dicho movimiento se ha revertido desde entonces, configurándose, en el período más reciente, como una tendencia hacia la desintegración de las cadenas de valor regionales, las cuales son sustituidas por importaciones extrabloque. </p>
+      </sec>
+    </sec>
+
+    <sec sec-type="conclusions">
+      <title>5. Consideraciones finales</title>
+      <p>Durante la primera década del siglo XXI, América Latina, analizada aquí en los bloques de la ALADI, la CAN y el Mercosur, experimentó un aumento de la integración productiva. Estudios anteriores sugieren que el alineamiento político de los gobiernos progresistas durante la marea rosa creó un entorno favorable para la coordinación diplomática y la expansión de las cadenas productivas regionales, lo que contribuyó al fortalecimiento temporal de la integración, especialmente en el Mercosur (SARTI; LIMA; BRAGATTI, 2021; NEVES; MARIANO, 2022; CAVALCANTE; MILAN; MORRONE, 2022; BARCELÓ SEVERGNINI; BARRENENGOA, 2023). Posiblemente, este resultado fue fruto de la combinación geopolítica de la ascensión de gobiernos progresistas en la región, del crecimiento económico impulsado por la expansión del mercado interno y de las exportaciones, especialmente hacia China, lo que implicó un incremento de las transacciones comerciales intrarregionales, incluidas aquellas de naturaleza complementaria, con un enfoque en la integración productiva, como se trata en nuestro estudio. No obstante, tras la crisis de 2009, esta tendencia se revirtió y lo que se observa en los períodos más recientes es una desintegración gradual en la región. </p>
+      <p>Las principales implicaciones de la desintegración productiva observada en ALADI9, especialmente en el Mercosur, son el debilitamiento de los encadenamientos industriales regionales, lo que a su vez implica menos oportunidades de empleo de calidad y la complejización de la producción hacia industrias intensivas en conocimiento. Como consecuencia, ello tiende a reforzar la especialización productiva y la histórica dependencia externa de la región, mediante una inserción subordinada en las cadenas globales de valor. La evolución que hemos presentado en este estudio confirma que la dependencia estructural de las economías latinoamericanas sigue siendo persistente, como advirtieron Prebisch (1950), Furtado (1961) e Ocampo (2001), manifestándose hoy en nuevas formas de subordinación productiva y tecnológica que limitan la autonomía industrial y la diversificación exportadora de la región.</p>
+    </sec>
+  </body>
+
+  <back>
+    <ack>
+      <title>6. Agradecimientos</title>
+      <p>Esta investigación fue realizada y financiada dentro del Programa de Estancia Corta Postdoctoral de la Fundación Carolina y ANDIFES en el año académico 2023-2024.</p>
+    </ack>
+
+    <ref-list>
+      <title>7. Referencias</title>
+      <ref id="B1">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name><surname>ÁCS</surname><given-names>Zoltán J.</given-names></name>
+            <name><surname>LAFUENTE</surname><given-names>Esteban</given-names></name>
+            <name><surname>SZERB</surname><given-names>László</given-names></name>
+          </person-group>
+          <article-title>A note on the configuration of the digital ecosystem in Latin America</article-title>
+          <source>TEC Empresarial</source>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>19</lpage>
+          <year>2022</year>
+          <pub-id pub-id-type="doi">10.18845/te.v16i1.5926</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B2">
+        <label>2</label>
+        <element-citation publication-type="report">
+          <person-group person-group-type="author">
+            <name><surname>BALDWIN</surname><given-names>Richard</given-names></name>
+          </person-group>
+          <source>Trade and industrialisation after globalisation’s 2nd unbundling: how building and joining a supply chain are different and why it matters</source>
+          <publisher-loc>Cambridge, MA</publisher-loc>
+          <publisher-name>National Bureau of Economic Research</publisher-name>
+          <year>2011</year>
+          <comment>NBER Working Paper, n. 17716</comment>
+        </element-citation>
+      </ref>
+      <ref id="B3">
+        <label>3</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name><surname>BALDWIN</surname><given-names>Richard</given-names></name>
+          </person-group>
+          <source>The Great Convergence: Information Technology and the New Globalization</source>
+          <publisher-loc>Cambridge, MA</publisher-loc>
+          <publisher-name>Harvard University Press</publisher-name>
+          <year>2016</year>
+        </element-citation>
+      </ref>
+      <ref id="B4">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name><surname>BARCELÓ SEVERGNINI</surname><given-names>Nastasia</given-names></name>
+            <name><surname>BARRENENGOA</surname><given-names>Amanda</given-names></name>
+          </person-group>
+          <article-title>El MERCOSUR ante la desaceleración del comercio intrarregional y las dinámicas de desintegración entre 2012 y 2022: análisis y perspectivas actuales en clave autonomista</article-title>
+          <source>Estudos Internacionais: Revista de Relações Internacionais da PUC Minas</source>
+          <volume>11</volume>
+          <issue>3</issue>
+          <fpage>108</fpage>
+          <lpage>125</lpage>
+          <year>2023</year>
+          <pub-id pub-id-type="doi">10.5752/P.2317-773X.2023v11n3p108-125</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name><surname>BRICEÑO-RUIZ</surname><given-names>José</given-names></name>
+          </person-group>
+          <article-title>O auge e a crise do “novo Mercosul” no período pós-hegemônico (2003-2016)</article-title>
+          <source>Lua Nova</source>
+          <publisher-loc>São Paulo</publisher-loc>
+          <issue>112</issue>
+          <fpage>55</fpage>
+          <lpage>86</lpage>
+          <year>2021</year>
+          <pub-id pub-id-type="doi">10.1590/0102-055086/112</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B6">
+        <label>6</label>
+        <element-citation publication-type="report">
+          <person-group person-group-type="author">
+            <name><surname>CASTILHO</surname><given-names>Marta Reis</given-names></name>
+          </person-group>
+          <source>Comércio internacional e integração produtiva: Una análise dos fluxos comerciais dos países da ALADI: Textos para Discussão</source>
+          <publisher-loc>Brasília</publisher-loc>
+          <publisher-name>Instituto de Pesquisa Econômica Aplicada (IPEA)</publisher-name>
+          <year>2012</year>
+        </element-citation>
+      </ref>
+      <ref id="B7">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name><surname>CAVALCANTE</surname><given-names>Thiago Peixoto de Almeida</given-names></name>
+            <name><surname>MILAN</surname><given-names>Marcelo</given-names></name>
+            <name><surname>MORRONE</surname><given-names>Henrique</given-names></name>
+          </person-group>
+          <article-title>Evidências da integração produtiva entre Brasil e Argentina no contexto do MERCOSUL (1993-2019)</article-title>
+          <source>Estudios económicos</source>
+          <volume>39</volume>
+          <issue>78</issue>
+          <fpage>157</fpage>
+          <lpage>186</lpage>
+          <year>2022</year>
+          <pub-id pub-id-type="doi">10.52292/j.estudecon.2022.2274</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name><surname>CORBELLA</surname><given-names>Virginia Inés</given-names></name>
+          </person-group>
+          <article-title>Integración y flujos comerciales entre los países de la UNASUR</article-title>
+          <source>Análisis Económico</source>
+          <volume>28</volume>
+          <issue>69</issue>
+          <fpage>149</fpage>
+          <lpage>165</lpage>
+          <year>2013</year>
+        </element-citation>
+      </ref>
+      <ref id="B9">
+        <label>9</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name><surname>CORBELLA</surname><given-names>Virginia Inés</given-names></name>
+            <name><surname>SOUZA</surname><given-names>Karla Sarmento G. de</given-names></name>
+          </person-group>
+          <article-title>La integración comercial y productiva de Aladi y su cambio estructural</article-title>
+          <source>Economía UNAM</source>
+          <volume>14</volume>
+          <issue>41</issue>
+          <fpage>90</fpage>
+          <lpage>109</lpage>
+          <year>2017</year>
+        </element-citation>
+      </ref>
+      <ref id="B10">
+        <label>10</label>
+        <element-citation publication-type="report">
+          <person-group person-group-type="author">
+            <name><surname>CONSTANTINESCU</surname><given-names>Cristina</given-names></name>
+            <name><surname>MATTOO</surname><given-names>Aaditya</given-names></name>
+            <name><surname>RUTA</surname><given-names>Michele</given-names></name>
+          </person-group>
+          <source>The Global Trade Slowdown: Cyclical or Structural?</source>
+          <publisher-loc>Washington, D.C.</publisher-loc>
+          <publisher-name>International Monetary Fund</publisher-name>
+          <year>2015</year>
+          <comment>IMF Working Paper, WP/15/6</comment>
+        </element-citation>
+      </ref>
+      <ref id="B11">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name><surname>FRANCO</surname><given-names>Sofía F.</given-names></name>
+            <name><surname>GRAÑA</surname><given-names>Juan M.</given-names></name>
+            <name><surname>RIKAP</surname><given-names>Cecilia</given-names></name>
+          </person-group>
+          <article-title>Dependency in the digital age? The experience of Mercado Libre in Latin America</article-title>
+          <source>Development and Change</source>
+          <volume>55</volume>
+          <issue>4</issue>
+          <fpage>789</fpage>
+          <lpage>813</lpage>
+          <year>2024</year>
+          <pub-id pub-id-type="doi">10.1111/dech.12839</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12">
+        <label>12</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name><surname>FURTADO</surname><given-names>Celso</given-names></name>
+          </person-group>
+          <source>Desenvolvimento e subdesenvolvimento</source>
+          <publisher-loc>Rio de Janeiro</publisher-loc>
+          <publisher-name>Fundo de Cultura</publisher-name>
+          <year>1961</year>
+        </element-citation>
+      </ref>
+      <ref id="B13">
+        <label>13</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name><surname>GEREFFI</surname><given-names>Gary</given-names></name>
+          </person-group>
+          <article-title>International trade and industrial upgrading in the apparel commodity chain</article-title>
+          <source>Journal of International Economics</source>
+          <volume>48</volume>
+          <issue>1</issue>
+          <fpage>37</fpage>
+          <lpage>70</lpage>
+          <year>1999</year>
+          <pub-id pub-id-type="doi">10.1016/S0022-1996(98)00075-0</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14">
+        <label>14</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name><surname>GONZÁLEZ</surname><given-names>Germán Héctor</given-names></name>
+            <name><surname>GARCÍA-GONZÁLEZ</surname><given-names>Juan David</given-names></name>
+            <name><surname>GÓMEZ-MEDINA</surname><given-names>José Santiago</given-names></name>
+            <name><surname>CORBELLA</surname><given-names>Virginia Inés</given-names></name>
+          </person-group>
+          <article-title>Regionalization of Latin America based on asymmetries in the absorptive capacity of countries</article-title>
+          <source>The Journal of Economic Asymmetries</source>
+          <volume>27</volume>
+          <elocation-id>e00291</elocation-id>
+          <year>2023</year>
+          <pub-id pub-id-type="doi">10.1016/j.jeca.2023.e00291</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15">
+        <label>15</label>
+        <element-citation publication-type="working-paper">
+          <person-group person-group-type="author">
+            <name><surname>LEMOINE</surname><given-names>D.</given-names></name>
+            <name><surname>ÜNAL-KESENCI</surname><given-names>F.</given-names></name>
+          </person-group>
+          <article-title>China in the international segmentation of production processes</article-title>
+          <source>Working Paper</source>
+          <year>2002</year>
+        </element-citation>
+      </ref>
+      <ref id="B16">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name><surname>MANZI</surname><given-names>Rafael Henrique Dias</given-names></name>
+          </person-group>
+          <article-title>Economic globalization in the global post-crisis of 2008: limits and deadlocks</article-title>
+          <source>Brazilian Journal of Political Economy</source>
+          <volume>39</volume>
+          <issue>3</issue>
+          <fpage>470</fpage>
+          <lpage>484</lpage>
+          <year>2019</year>
+          <pub-id pub-id-type="doi">10.1590/0101-35172019-2922</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B17">
+        <label>17</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name><surname>MEDEIROS</surname><given-names>Carlos Aguiar de</given-names></name>
+            <name><surname>MAJEROWICZ</surname><given-names>Esther</given-names></name>
+          </person-group>
+          <article-title>Contemporary industrial policy and challenges to South America and Brazil</article-title>
+          <source>Revista de Economia Política</source>
+          <volume>45</volume>
+          <issue>1</issue>
+          <elocation-id>e253638</elocation-id>
+          <year>2025</year>
+          <pub-id pub-id-type="doi">10.1590/0101-31572025-3638</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B18">
+        <label>18</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name><surname>NEVES</surname><given-names>Bárbara Carvalho</given-names></name>
+            <name><surname>MARIANO</surname><given-names>Karina Lilia Pasquariello</given-names></name>
+          </person-group>
+          <article-title>El regionalismo sudamericano y el giro a la desintegración: algunas reflexiones</article-title>
+          <source>Foro Internacional</source>
+          <volume>62</volume>
+          <issue>1</issue>
+          <fpage>137</fpage>
+          <lpage>178</lpage>
+          <year>2022</year>
+          <pub-id pub-id-type="doi">10.24201/fi.v62i1.2842</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B19">
+        <label>19</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name><surname>OCAMPO</surname><given-names>José Antonio</given-names></name>
+          </person-group>
+          <article-title>Raúl Prebisch y la agenda del desarrollo en los albores del siglo XXI</article-title>
+          <source>Revista de la CEPAL</source>
+          <issue>75</issue>
+          <fpage>25</fpage>
+          <lpage>40</lpage>
+          <year>2001</year>
+        </element-citation>
+      </ref>
+      <ref id="B20">
+        <label>20</label>
+        <element-citation publication-type="book-chapter">
+          <person-group person-group-type="author">
+            <name><surname>OCAMPO</surname><given-names>José Antonio</given-names></name>
+            <name><surname>PORCILE</surname><given-names>Gabriel</given-names></name>
+          </person-group>
+          <chapter-title>Latin American industrial policies: a comparative perspective</chapter-title>
+          <person-group person-group-type="editor">
+            <name><surname>OQUBAY</surname><given-names>Arkebe</given-names></name>
+            <etal/>
+          </person-group>
+          <source>The Oxford Handbook of Industrial Policy</source>
+          <publisher-loc>Oxford</publisher-loc>
+          <publisher-name>Oxford University Press</publisher-name>
+          <year>2020</year>
+          <fpage>811</fpage>
+          <lpage>841</lpage>
+          <pub-id pub-id-type="doi">10.1093/oxfordhb/9780198862420.013.31</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B21">
+        <label>21</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name><surname>PRAKAS PAL</surname><given-names>Dipti</given-names></name>
+            <name><surname>DIETZENBACHER</surname><given-names>Erik</given-names></name>
+            <name><surname>BASU</surname><given-names>Dipika</given-names></name>
+          </person-group>
+          <article-title>Economic integration: systemic measures in an input–output framework</article-title>
+          <source>Economic Systems Research</source>
+          <volume>19</volume>
+          <issue>4</issue>
+          <fpage>397</fpage>
+          <lpage>408</lpage>
+          <year>2007</year>
+          <pub-id pub-id-type="doi">10.1080/09535310701698464</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B22">
+        <label>22</label>
+        <element-citation publication-type="report">
+          <person-group person-group-type="author">
+            <name><surname>PREBISCH</surname><given-names>Raúl</given-names></name>
+          </person-group>
+          <source>The economic development of Latin America and its principal problems</source>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>United Nations, ECLA</publisher-name>
+          <year>1950</year>
+        </element-citation>
+      </ref>
+      <ref id="B23">
+        <label>23</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name><surname>REIG LORENZI</surname><given-names>Nicolás</given-names></name>
+            <name><surname>PUCHET ANYUL</surname><given-names>Martín</given-names></name>
+          </person-group>
+          <article-title>El rol de Uruguay y México en la integración comercial del Mercosur y del TLCAN: 1990-2016</article-title>
+          <source>Problemas del desarrollo</source>
+          <volume>50</volume>
+          <issue>198</issue>
+          <fpage>57</fpage>
+          <lpage>85</lpage>
+          <year>2019</year>
+          <pub-id pub-id-type="doi">10.22201/iiec.20078951e.2019.198.67471</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B24">
+        <label>24</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name><surname>RODRIK</surname><given-names>Dani</given-names></name>
+          </person-group>
+          <source>The globalization paradox: democracy and the future of the world economy</source>
+          <publisher-loc>New York and London</publisher-loc>
+          <publisher-name>W.W. Norton</publisher-name>
+          <year>2011</year>
+        </element-citation>
+      </ref>
+      <ref id="B25">
+        <label>25</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name><surname>SANAHUJA</surname><given-names>José Antonio</given-names></name>
+          </person-group>
+          <article-title>Del “regionalismo abierto” al “regionalismo post-liberal”: crisis y cambio en la integración regional en América Latina</article-title>
+          <source>Anuario de la Integración</source>
+          <publisher-loc>Madrid</publisher-loc>
+          <issue>7</issue>
+          <fpage>11</fpage>
+          <lpage>74</lpage>
+          <year>2009</year>
+        </element-citation>
+      </ref>
+      <ref id="B26">
+        <label>26</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name><surname>SARTI</surname><given-names>Ingrid</given-names></name>
+            <name><surname>LIMA</surname><given-names>Marcos Costa</given-names></name>
+            <name><surname>BRAGATTI</surname><given-names>Milton</given-names></name>
+          </person-group>
+          <article-title>Nuestro norte es el sur: a busca da autonomia, os desafios da integração regional e a China</article-title>
+          <source>Lua Nova</source>
+          <issue>113</issue>
+          <fpage>175</fpage>
+          <lpage>210</lpage>
+          <year>2021</year>
+          <pub-id pub-id-type="doi">10.1590/0102-175210/113</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B27">
+        <label>27</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name><surname>SOUZA</surname><given-names>Karla Sarmento G. de</given-names></name>
+            <name><surname>CASTILHO</surname><given-names>Marta Reis</given-names></name>
+          </person-group>
+          <article-title>Integração produtiva e acordos comerciais: o caso dos países da Aladi</article-title>
+          <source>Economia e Sociedade</source>
+          <volume>25</volume>
+          <issue>1</issue>
+          <fpage>173</fpage>
+          <lpage>207</lpage>
+          <year>2016</year>
+          <pub-id pub-id-type="doi">10.1590/1982-3533.2016v25n1art7</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B28">
+        <label>28</label>
+        <element-citation publication-type="report">
+          <person-group person-group-type="author">
+            <name><surname>STURGEON</surname><given-names>Timothy J.</given-names></name>
+          </person-group>
+          <source>Global value chains and economic globalization: Towards a new measurement framework</source>
+          <year>2013</year>
+        </element-citation>
+      </ref>
+      <ref id="B29">
+        <label>29</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name><surname>VALENTE</surname><given-names>Jonas C. L.</given-names></name>
+            <name><surname>GROHMANN</surname><given-names>Rafael</given-names></name>
+          </person-group>
+          <article-title>Critical data studies with Latin America: Theorizing beyond data colonialism</article-title>
+          <source>Big Data &amp; Society</source>
+          <volume>11</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>13</lpage>
+          <year>2024</year>
+          <pub-id pub-id-type="doi">10.1177/20539517241227875</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B30">
+        <label>30</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name><surname>VÁZQUEZ LÓPEZ</surname><given-names>Raúl</given-names></name>
+          </person-group>
+          <article-title>Integración económica en América Latina: la visión teórica de la CEPAL confrontada con la evolución del proyecto en la región</article-title>
+          <source>Journal of Economics, Finance and Administrative Science</source>
+          <volume>16</volume>
+          <issue>31</issue>
+          <fpage>107</fpage>
+          <lpage>118</lpage>
+          <year>2011</year>
+        </element-citation>
+      </ref>
+      <ref id="B31">
+        <label>31</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name><surname>MALPICA ZAPATA</surname><given-names>William A.</given-names></name>
+            <name><surname>NAUZAN CEBALLOS</surname><given-names>Víctor Hugo</given-names></name>
+            <name><surname>SILVA RODRÍGUEZ</surname><given-names>Leidy Maritza</given-names></name>
+          </person-group>
+          <article-title>Economic integration in Latin America: an approach through the analysis of bibliometric indicators on research production</article-title>
+          <source>Organizations and Markets in Emerging Economies</source>
+          <volume>13</volume>
+          <issue>2</issue>
+          <fpage>300</fpage>
+          <lpage>316</lpage>
+          <year>2022</year>
+          <pub-id pub-id-type="doi">10.15388/omee.2022.13.81</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+
+    <app-group>
+      <app id="app1">
+        <title>ANEXO I – MEMORIA DE CÁLCULO DEL ÍNDICE SISTÉMICO DE INTEGRACIÓN</title>
+        <p>Para el análisis de la integración comercial y productiva en ALADI, se calculó la medida global del índice sistémico de integración (ISI) formulado por Prakas Pal, Dietzenbacher y Basu (2007). El índice se calcula a partir de la <bold>Ecuación 1</bold>, donde <bold><italic>T</italic></bold> representa la matriz de la proporción de las exportaciones de un país <italic>i </italic>a otro país<italic> j</italic> dentro del mismo bloque económico. Cuando <italic>i = j</italic>, el valor del comercio exterior es igual a cero, por tratarse del mismo país. Debito a esto, el determinante de esta matriz poder ser negativo, razón por la cual se calcula el determinante de la matriz (<bold><italic>I – T</italic></bold>). No obstante, cuanto mayor sea la proporción de los flujos de comercio intrabloque en comparación con el comercio total exterior, menor será este determinante. Por ello, el indicador se define como 1 menos el determinante de dicha matriz. Adicionalmente, para permitir la comparación entre bloques con un número distinto de países, se calcula la media geométrica de dicho determinante. Así, cuanto más cercano a 1, mayor es la integración del bloque económico, y cuanto más cercano a cero, menor es su integración.</p>
+        <p><bold>Ecuación 1.</bold> Índice Sistémico de Integración económica, medida global.</p>
+        <p>Fuente: Prakas Pal, Dietzenbacher y Basu (2007, p. 404).</p>
+        <p>La matriz <bold><italic>T</italic></bold> se elaboró utilizando datos de importaciones para ALADI10, ALADI9, CAN, Mercosur y la UE (con los actuales 27 Estados miembros), conforme a la recomendación de utilizar estos datos por su mayor fiabilidad derivada del control arancelario más estricto (Corbella e Souza, 2017). La <xref ref-type="table" rid="tbl1">Tabla 1</xref> muestra la matriz de flujos comerciales intrabloque y el resto del mundo empleada para calcular la Matriz <bold><italic>T</italic></bold>.</p>
+        <table-wrap id="tbl1">
+          <label>Tabla 1</label>
+          <caption><title>Matriz de comercio intrabloque y el resto del mundo</title></caption>
+          <table>
+            <tbody>
+              <tr>
+                <td align="center">0</td>
+                <td align="center"/>
+                <td align="center">. . .</td>
+                <td align="center"/>
+                <td align="center"/>
+                <td align="center"/>
+              </tr>
+              <tr>
+                <td align="center"/>
+                <td align="center">0</td>
+                <td align="center">. . .</td>
+                <td align="center"/>
+                <td align="center"/>
+                <td align="center"/>
+              </tr>
+              <tr>
+                <td align="center">. . .</td>
+                <td align="center">. . .</td>
+                <td align="center">. . .</td>
+                <td align="center">. . .</td>
+                <td align="center">. . .</td>
+                <td align="center">. . .</td>
+              </tr>
+              <tr>
+                <td align="center"/>
+                <td align="center"/>
+                <td align="center">. . .</td>
+                <td align="center">0</td>
+                <td align="center"/>
+                <td align="center"/>
+              </tr>
+            </tbody>
+          </table>
+          <attrib>Fuente: Elaborada a partir de Prakas Pal, Dietzenbacher y Basu (2007, p. 404).</attrib>
+        </table-wrap>
+        <p>En esta relación, simboliza las exportaciones del país i hacia el país <italic>j</italic>, representa las exportaciones del país <italic>i</italic> hacia el resto del mundo, y denota las exportaciones totales del país <italic>i</italic>. Este último se utiliza como denominador para determinar la proporción de exportaciones dirigidas a los miembros intrabloque de cada país <italic>i</italic> que forma parte del bloque, conforme demostrado en la <bold>Ecuación 2</bold>.</p>
+        <p><bold>Ecuación 2.</bold> Proporción de las exportaciones intrabloque de cada país miembro hacia otro país asociado en el total de sus exportaciones.</p>
+        <p>Fuente: Elaborado a partir de Prakas Pal, Dietzenbacher y Basu (2007, p. 400).</p>
+        <p>La matriz <bold><italic>T</italic></bold> se conforma por los valores correspondientes a los países que integran un bloque comercial. Por otro lado, la matriz , esencial para calcular el índice sistémico de integración, se especifica como se muestra en la <xref ref-type="table" rid="tbl2">Tabla 2</xref>.</p>
+        <table-wrap id="tbl2">
+          <label>Tabla 2</label>
+          <caption><title>Matriz [I – T] para el cálculo del índice sistémico de Integración</title></caption>
+          <table>
+            <tbody>
+              <tr>
+                <td align="center">1</td>
+                <td align="center"/>
+                <td align="center">. . .</td>
+                <td align="center"/>
+              </tr>
+              <tr>
+                <td align="center"/>
+                <td align="center">1</td>
+                <td align="center">. . .</td>
+                <td align="center"/>
+              </tr>
+              <tr>
+                <td align="center">. . .</td>
+                <td align="center">. . .</td>
+                <td align="center">. . .</td>
+                <td align="center">. . .</td>
+              </tr>
+              <tr>
+                <td align="center"/>
+                <td align="center"/>
+                <td align="center">. . .</td>
+                <td align="center">1</td>
+              </tr>
+            </tbody>
+          </table>
+          <attrib>Fuente: Elaborado a partir de Prakas Pal, Dietzenbacher y Basu (2007).</attrib>
+        </table-wrap>
+      </app>
+    </app-group>
+  </back>
+</article>
