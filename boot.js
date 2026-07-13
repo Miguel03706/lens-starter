@@ -28,7 +28,7 @@ var qs = function () {
 // This document gets loaded by default
 // --------
 
-var documentURL = "data/corrigido.xml";
+var documentURL = "data/corrigido_ia2.xml";
 
 $(function () {
 
