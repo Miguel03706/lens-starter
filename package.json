@@ -12,7 +12,7 @@
     "express": "^4.22.1",
     "lens": "elifesciences/lens#develop",
     "method-override": "^3.0.0",
-    "node-sass": "^9.0.0",
+    "sass": "^1.101.0",
     "underscore": "^1.12.1"
   },
   "devDependencies": {

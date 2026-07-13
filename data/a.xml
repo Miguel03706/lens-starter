@@ -1,0 +1,2300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.8" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">ijpr</journal-id>
+			<journal-title-group>
+				<journal-title>International Journal of Psychological Research</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">int.j.psychol.res.</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">2011-7922</issn>
+			<issn pub-type="ppub">2011-2084</issn>
+			<publisher>
+				<publisher-name>Facultad de Psicología. Universidad de San Buenaventura, Medellín</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.21500/20112084.5435</article-id>
+			<article-id pub-id-type="publisher-id">00002</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Research Article</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Psychometric properties of the Sexual Double Standard Scale (DSS) in Chilean university students: Diﬀerences according to sex, gender attitudes, and religiosity<xref ref-type="fn" rid="fn3">*</xref>
+					<xref ref-type="fn" rid="fn4">**</xref>
+				</article-title>
+				<trans-title-group xml:lang="es">
+					<trans-title>Propiedades psicométricas de la Escala de Doble Estándar Sexual (DSS) en universitarios chilenos: diferencias según sexo, actitudes de género y religiosidad</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Díaz-Gutiérrez</surname>
+						<given-names>Camila</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Pérez</surname>
+						<given-names>Beatriz</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1b">1</xref>
+					<xref ref-type="aff" rid="aff2">2</xref>
+					<xref ref-type="corresp" rid="c1">⋆</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Concha-Salgado</surname>
+						<given-names>Andrés</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1c">1</xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">Departamento de Psicología, Universidad de La Frontera, Montevideo 0830, Temuco, Chile.</institution>
+				<institution content-type="normalized">Universidad de La Frontera</institution>
+				<institution content-type="orgdiv1">Departamento de Psicología</institution>
+				<institution content-type="orgname">Universidad de La Frontera</institution>
+				<addr-line>
+					<named-content content-type="city">Temuco</named-content>
+				</addr-line>
+				<country country="CL">Chile</country>
+			</aff>
+			<aff id="aff1b">
+				<label>1</label>
+				<institution content-type="original">Departamento de Psicología, Universidad de La Frontera, Montevideo 0830, Temuco, Chile.</institution>
+				<institution content-type="normalized">Universidad de La Frontera</institution>
+				<institution content-type="orgdiv1">Departamento de Psicología</institution>
+				<institution content-type="orgname">Universidad de La Frontera</institution>
+				<addr-line>
+					<named-content content-type="city">Temuco</named-content>
+				</addr-line>
+				<country country="CL">Chile</country>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">Departamento de Psicología, Universidad de Oviedo, Plaza Feijoó S/N, Oviedo, Spain.</institution>
+				<institution content-type="normalized">Universidad de Oviedo</institution>
+				<institution content-type="orgdiv1">Departamento de Psicología</institution>
+				<institution content-type="orgname">Universidad de Oviedo</institution>
+				<addr-line>
+					<named-content content-type="city">Oviedo</named-content>
+				</addr-line>
+				<country country="ES">Spain</country>
+				<email>beatriz.perez@ufrontera.cl</email>
+			</aff>
+			<aff id="aff1c">
+				<label>1</label>
+				<institution content-type="original">Departamento de Psicología, Universidad de La Frontera, Montevideo 0830, Temuco, Chile.</institution>
+				<institution content-type="normalized">Universidad de La Frontera</institution>
+				<institution content-type="orgdiv1">Departamento de Psicología</institution>
+				<institution content-type="orgname">Universidad de La Frontera</institution>
+				<addr-line>
+					<named-content content-type="city">Temuco</named-content>
+				</addr-line>
+				<country country="CL">Chile</country>
+			</aff>
+			<author-notes>
+				<corresp id="c1">
+					<label>⋆</label>Corresponding author: Beatriz Pérez. Email: <email>beatriz.perez@ufrontera.cl</email>
+				</corresp>
+				<fn fn-type="conflict" id="fn2">
+					<label>Conﬂict of interests:</label>
+					<p> The authors have declared that there is no conﬂict of interest.</p>
+				</fn>
+			</author-notes>
+			<!--<pub-date date-type="pub" publication-format="electronic">
+				<day>28</day>
+				<month>02</month>
+				<year>2023</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">-->
+			<pub-date pub-type="epub-ppub">
+				<season>Jul-Dec</season>
+				<year>2022</year>
+			</pub-date>
+			<volume>15</volume>
+			<issue>2</issue>
+			<fpage>10</fpage>
+			<lpage>21</lpage>
+			<history>
+				<date date-type="received">
+					<day>29</day>
+					<month>05</month>
+					<year>2021</year>
+				</date>
+				<date date-type="accepted">
+					<day>18</day>
+					<month>04</month>
+					<year>2022</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="en">
+					<license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Abstract</title>
+				<p>Given the complete lack of instruments in Chile to measure the phenomenon of the sexual double standard (SDS), this study aimed to evaluate the psychometric properties of the sexual double standard scale (DSS). The sample contained 1036 university students from central and southern Chile. 61.1% (n = 633) were women, the average age was 20.4 years, and 31.7% (n = 259) identiﬁed as atheist or agnostic. The DSS demonstrated a unidimensional structure, excellent reliability, and evidence of convergent and discriminant validity: the higher the score in SDS, the greater the stereotypical attitudes about gender and the lower the transcendent attitudes. The religious participants obtained higher mean scores on the DSS and men obtained signiﬁcantly higher SDS scores than women. In addition, the group of participants with extreme stereotypical attitudes obtained signiﬁcantly higher scores on the DSS than the extreme transcendent attitudes group, in both men and women samples. Based on the evidence that links the SDS with sexual functioning and satisfaction, risky sexual practices, sexual aggression and victimization, and intimate partner violence, the DSS stands out as a contribution to the development of sex-aﬀective education programs and the identiﬁcation of individuals and groups at risk.</p>
+			</abstract>
+			<trans-abstract xml:lang="es">
+				<title>Resumen</title>
+				<p>Ante la ausencia de instrumentos en Chile para medir el fenómeno del Doble Estándar Sexual (SDS), el presente estudio tuvo como objetivo evaluar las propiedades psicométricas de la Escala de Doble Estándar Sexual (DSS). La muestra se compuso de 1036 personas universitarias del centro y sur de Chile. El 61.1% (n = 633) fueron mujeres, la edad promedio fue de 20.4 años y un 31.7% (n = 259) se identiﬁcó como ateo o agnóstico. Mediante análisis factorial conﬁrmatorio, la DSS obtuvo una estructura unidimensional en la muestra de estudio, un α Ordinal = .918, y evidencias de validez convergente y discriminante: a mayor puntuación en SDS, mayores actitudes estereotipadas sobre el género y menores actitudes trascendentes. Los participantes religiosos obtuvieron puntuaciones medias más altas en la DSS y los hombres obtuvieron puntajes de SDS signiﬁcativamente mayores que los de las mujeres. Además, tanto en el caso de los hombres como en el de las mujeres, el grupo de participantes con actitudes estereotipadas extremas obtuvo puntuaciones signiﬁcativamente más elevadas en DSS que el grupo participante con actitudes trascendentes extremas. Con base en la evidencia que asocia el SDS con el funcionamiento y satisfacción sexual, prácticas sexuales de riesgo, la agresión y victimización sexual, y la violencia en relaciones de pareja, la DSS se distingue como un aporte para el desarrollo de programas educativos sexoafectivos y la identiﬁcación de individuos y grupos de riesgo.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>Double Standard</kwd>
+				<kwd>double Standard Scale</kwd>
+				<kwd>dss</kwd>
+				<kwd>psychometric properties</kwd>
+				<kwd>Chile</kwd>
+				<kwd>university Students</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title>Palabras Clave:</title>
+				<kwd>Doble Estándar Sexual</kwd>
+				<kwd>escala de Doble Estándar</kwd>
+				<kwd>dss</kwd>
+				<kwd>propiedades psicométricas</kwd>
+				<kwd>Chile</kwd>
+				<kwd>estudiantes universitarios</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="1"/>
+				<table-count count="5"/>
+				<equation-count count="0"/>
+				<ref-count count="49"/>
+				<page-count count="12"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>1. Introducción</title>
+			<p>The sexual double standard (SDS) is the diﬀerentiated assessment made of sexual behaviors according to whether they are conducted by a man or a woman, such as casual sexual relations, the adoption of an active role in the sexual act, or maintaining multiple sexual partners (<xref ref-type="bibr" rid="B13">Fasula et al., 2014</xref>; <xref ref-type="bibr" rid="B44">Sierra et al., 2007</xref>; <xref ref-type="bibr" rid="B43">Sierra et al., 2018</xref>). At present, there is evidence of their study in European, Asian, and North American countries, in samples of adults and adolescents (<xref ref-type="bibr" rid="B14">Fugère et al., 2008</xref>; <xref ref-type="bibr" rid="B19">Guo, 2019</xref>; <xref ref-type="bibr" rid="B20">Haavio-Mannila &amp; Kontula, 2003</xref>; <xref ref-type="bibr" rid="B24">Kim et al., 2019</xref>; <xref ref-type="bibr" rid="B44">Sierra et al., 2007</xref>; <xref ref-type="bibr" rid="B47">Ubillos et al., 2016</xref>), as well as in countries in Latin America such as Peru, El Salvador, Ecuador, and Brazil (<xref ref-type="bibr" rid="B2">Arcos &amp; Dewitte, 2021</xref>; <xref ref-type="bibr" rid="B27">Monge et al., 2013</xref>; <xref ref-type="bibr" rid="B40">Sierra et al., 2009</xref>; <xref ref-type="bibr" rid="B42">Sierra et al., 2010</xref>; <xref ref-type="bibr" rid="B41">Sierra &amp; Gutiérrez-Quintanilla, 2007</xref>).</p>
+			<p>According to the social role theory, biosocial theory, and in contrast to the evolutionary perspective that sustains the origin of this phenomenon in biological factors (<xref ref-type="bibr" rid="B12">Endendijk et al., 2020</xref>), the SDS emerges from the traditional structure of gender roles that establishes what is socially expected of men and women based on physical, biological, social, and ecological factors (<xref ref-type="bibr" rid="B9">Eagly &amp; Wood, 1999</xref>; <xref ref-type="bibr" rid="B48">Zaikman et al., 2016</xref>). The role of men is deﬁned around strength, endurance, and assertiveness (<xref ref-type="bibr" rid="B33">Petersen &amp; Hyde, 2010</xref>; <xref ref-type="bibr" rid="B34">Rodríguez-Mosquera, 2011</xref>), and that of women around modesty, moderation, and obedience to authority due to their reproduction and lactation abilities (<xref ref-type="bibr" rid="B9">Eagly &amp; Wood, 1999</xref>; <xref ref-type="bibr" rid="B33">Petersen &amp; Hyde, 2010</xref>; <xref ref-type="bibr" rid="B34">Rodríguez-Mosquera, 2011</xref>). In this context, the behavior of men is usually associated with greater status and power, whereas that of women is associated with submission (<xref ref-type="bibr" rid="B49">Zaikman &amp; Marks, 2017</xref>). In the matter of sexuality, this power confers more freedom and sexual agency on men. They are described as people with strong sexual needs, greater willingness for sex, and as people exempt from the responsibility to care for their sexual health (<xref ref-type="bibr" rid="B47">Ubillos et al., 2016</xref>; <xref ref-type="bibr" rid="B48">Zaikman et al., 2016</xref>). In the case of women, sexuality is usually more restricted, having to negotiate their relationships. In addition, they take responsibility for their sexual health, contraception, and reputation (<xref ref-type="bibr" rid="B47">Ubillos et al., 2016</xref>). Thus, the literature conﬁrms that the traditional beliefs about gender are related to a greater approval of the SDS (<xref ref-type="bibr" rid="B2">Arcos &amp; Dewitte, 2021</xref>; <xref ref-type="bibr" rid="B16">Gómez Berrocal et al., 2019</xref>; <xref ref-type="bibr" rid="B35">Rudman et al., 2013</xref>; <xref ref-type="bibr" rid="B47">Ubillos et al., 2016</xref>; <xref ref-type="bibr" rid="B49">Zaikman &amp; Marks, 2017</xref>), generating greater social penalties for women when they do not exhibit the expected sexual behavior (<xref ref-type="bibr" rid="B49">Zaikman &amp; Marks, 2017</xref>). In addition, the SDS is associated with the deterioration in sexual functioning and satisfaction (<xref ref-type="bibr" rid="B2">Arcos &amp; Dewitte, 2021</xref>; <xref ref-type="bibr" rid="B17">Greene &amp; Faulkner, 2005</xref>; <xref ref-type="bibr" rid="B20">Haavio-Mannila &amp; Kontula, 2003</xref>; <xref ref-type="bibr" rid="B24">Kim et al., 2019</xref>; <xref ref-type="bibr" rid="B44">Sierra et al., 2007</xref>; <xref ref-type="bibr" rid="B40">Sierra et al., 2009</xref>; <xref ref-type="bibr" rid="B42">Sierra et al., 2010</xref>; <xref ref-type="bibr" rid="B46">Thomas &amp; Thurston, 2016</xref>), the development of risky sexual practices (<xref ref-type="bibr" rid="B6">Caron et al., 1993</xref>; <xref ref-type="bibr" rid="B8">Crawford &amp; Popp, 2003</xref>; <xref ref-type="bibr" rid="B13">Fasula et al., 2014</xref>; Kim et al., 2019; <xref ref-type="bibr" rid="B28">Muehlenhard &amp; McCoy, 1991</xref>), sexual aggression and victimization (<xref ref-type="bibr" rid="B1">Álvarez-Muelas et al., 2021</xref>; Sierra et al., 2010), and intimate partner violence, as well as the inability to recognize the intimate partner violence (<xref ref-type="bibr" rid="B24">Kim et al., 2019</xref>; <xref ref-type="bibr" rid="B47">Ubillos et al., 2016</xref>).</p>
+			<p>Consistent with the biosocial theory, <xref ref-type="bibr" rid="B12">Endendijk et al. (2020)</xref>, in their meta-analytical study, indicate gender and cultural context as the variables that moderate the expression of the SDS and the type of sexual behavior. We know that the incidence of the SDS is noteworthy in sociocultural contexts and groups with greater attachment to conservative social norms on gender and sexuality (<xref ref-type="bibr" rid="B8">Crawford &amp; Popp, 2003</xref>; <xref ref-type="bibr" rid="B14">Fugère et al., 2008</xref>; <xref ref-type="bibr" rid="B20">Haavio Mannila &amp; Kontula, 2003</xref>; <xref ref-type="bibr" rid="B24">Kim et al., 2019</xref>). Religion, as an institution characterized by dictating conservative moral and value codes for the suitable development of the man and woman (<xref ref-type="bibr" rid="B32">Pérez et al., 2020</xref>; Pérez et al., 2022; <xref ref-type="bibr" rid="B38">Sciurano et al., 2021</xref>; <xref ref-type="bibr" rid="B39">Seguino, 2011</xref>) is identiﬁed as one of the variables of greatest inﬂuence on human behavior (<xref ref-type="bibr" rid="B21">Hood et al., 2018</xref>) and sexual expression (<xref ref-type="bibr" rid="B2">Arcos &amp; Dewitte, 2021</xref>; <xref ref-type="bibr" rid="B3">Armstrong et al., 2021</xref>). In this respect, the biopsychosocial model of the sexual response identiﬁes religion as one of the individual variables and cultural determinants in sexual functioning and satisfaction (<xref ref-type="bibr" rid="B46">Thomas &amp; Thurston, 2016</xref>). As an example, the work carried out on an Ecuadorian sample by <xref ref-type="bibr" rid="B2">Arcos and Dewitte (2021)</xref>, who established, in a society deeply inﬂuenced by Catholicism in the conﬁguration of its cultural norms, a statistically signiﬁcant relation in women between the SDS and measures of sexual conservatism and view of sexual desire and pleasure as sin.</p>
+			<p>On the other hand, although the phenomenon of the SDS may be present in both genders, a lower incidence among women could be expected because they are the ones who mainly suﬀer the negative side of this phenomenon. In addition, women accept to a lesser extent the social hierarchies that subordinate them (<xref ref-type="bibr" rid="B25">Lee et al., 2011</xref>), while men show greater agreement with the traditional gender roles (<xref ref-type="bibr" rid="B31">Pérez et al., 2021</xref>). The systematic review by <xref ref-type="bibr" rid="B33">Petersen and Hyde (2010)</xref>, and the review by <xref ref-type="bibr" rid="B14">Fugère et al. (2008)</xref>, which included studies with samples from all the continents, support this premise. However, <xref ref-type="bibr" rid="B12">Endendijk et al. (2020)</xref>, in their meta-analytical study, found no diﬀerences by gender in the cognitions on SDS. The authors explain this outcome from the male and female control theory, indicating an equitable inﬂuence on SDS from the aspiration of control from both genders. Men’s support for the SDS assumes the maintenance of their social dominance, and women’s support for the SDS aﬀords female sexuality greater value than the male, which makes it a valuable tool of domination.</p>
+			<p>In Chile, a deeply religious country (<xref ref-type="bibr" rid="B10">Elgueta-Rosas et al., 2019</xref>), traditional mandates, that guide women’s sexuality, are based on the delay of their sexual initiation until a formal relationship, whereas men are encouraged to maintain broad sexual experience (<xref ref-type="bibr" rid="B5">Benavente &amp; Vergara, 2006</xref>). However, we do not have a measurement of the SDS with evidence of validity for its use on the Chilean population that allows us to state its incidence. The most recent background in Chilean society concerning this issue is in the ninth National Youth Survey (<xref ref-type="bibr" rid="B23">Instituto Nacional de la Juventud [INJUV], 2019</xref>) and the Microstudy on Sexuality (<xref ref-type="bibr" rid="B18">Growth from Knowledge [GFK], 2019</xref>). Both analyze the sexual behavior of adolescents over 15 years in diﬀerent regions of the country. The results show the gap narrowing in the average age of the onset of sexual relations, and the average number of sexual partners, with men beginning earlier and having more partners (<xref ref-type="bibr" rid="B18">GFK, 2019</xref>; <xref ref-type="bibr" rid="B23">INJUV, 2019</xref>). Although this information seems to reﬂect a transition in Chilean society from sexual behavior in accordance with the traditional SDS towards a more subtle SDS (<xref ref-type="bibr" rid="B8">Crawford &amp; Popp, 2003</xref>; <xref ref-type="bibr" rid="B16">Gómez-Berrocal et al., 2019</xref>), it also conﬁrms diﬀerences between sexes in the matter of sexuality. In addition, Chilean university students present a greater agreement with traditional gender attitudes (<xref ref-type="bibr" rid="B31">Pérez et al., 2021</xref>).</p>
+			<p>The implicit measures and the intrasubject designs oﬀer greater guarantees to collect the implicit attitudes over explicit and social attitudes. However, they are not used as frequently (<xref ref-type="bibr" rid="B12">Endendijk et al., 2020</xref>; <xref ref-type="bibr" rid="B16">GómezBerrocal et al., 2019</xref>; <xref ref-type="bibr" rid="B37">Sakaluk &amp; Milhausen, 2012</xref>; <xref ref-type="bibr" rid="B43">Sierra et al., 2018</xref>). The literature review by <xref ref-type="bibr" rid="B36">Sagebin-Bordini and Sperb (2013)</xref> highlights two self-report measurements for their greater use and psychometric evidence: the Sexual Double Standard Scale (SDSS) by <xref ref-type="bibr" rid="B29">Muehlenhard and Quackenbush (1998)</xref>, and the Double Standard Scale (DSS), by <xref ref-type="bibr" rid="B6">Caron et al. (1993)</xref>.</p>
+			<p>The SDSS (<xref ref-type="bibr" rid="B29">Muehlenhard &amp; Quackenbush, 1998</xref>), developed with a sample of American university women (mainly European-Americans), consists of 26 items in a Likert-type format, evaluating the same sexual behaviors in men (10 items) and women (10 items) or comparing both genders in the same items (6 items). The authors reported a unifactorial structure with appropriate psychometric qualities and convergent validity with a measurement of condom use. In its Spanish adaptation, <xref ref-type="bibr" rid="B43">Sierra et al. (2018)</xref> obtained a 16-item bifactorial structure (Acceptance for sexual freedom and Acceptance for sexual shyness), correlating positively with the DSS (<xref ref-type="bibr" rid="B6">Caron et al., 1993</xref>) and Social Predominance.</p>
+			<p>On the other hand, the DSS (<xref ref-type="bibr" rid="B6">Caron et al., 1993</xref>) is a 10-item Likert scale designed with a sample of American university students. The DSS measures the agreement of the participants with assessments of sexual behaviors indicative of a sexual double standard. The original study had a unifactorial structure with suitable internal consistency, showing that women adhere less to the SDS than men. In addition, the DSS has evidence of validity for its use in populations in four other countries, mostly Latin American, in samples of adults, university students, and adolescents. The unifactorial structure of the original instrument is consistent between the studies, although not always with the same number of items (see <xref ref-type="table" rid="t1">Table 1</xref>).</p>
+			<p>Both scales measure explicit attitudes to the SDS, although the DSS assesses the agreement with statements indicative of a traditional double standard, whereas the SDSS also measures the assessment of the participants on sexual behaviors of men and women. These approaches yield diﬀerent results, because the DSS evaluates to a larger extent the social endorsement of the SDS, while the SDSS gives more space to an evaluation on a personal level (<xref ref-type="bibr" rid="B12">Endendijk et al., 2020</xref>; <xref ref-type="bibr" rid="B16">Gómez et al., 2019</xref>; <xref ref-type="bibr" rid="B43">Sierra et al., 2018</xref>).</p>
+			<p>In the absence of a measuring instrument to assess the SDS with evidence for use on the Chilean population, and considering: (1) the greater extension of the functioning of the DSS compared to the SDSS, because it shows evidence of its use in populations in 5 diﬀerent countries; (2) the linguistic and cultural proximity of some of these countries as they are Latin American, which oﬀers greater guarantees of its functioning in Chile; (3) the greater coherence in its structure among the diﬀerent studies, which facilitates the comparison of the SDS in diﬀerent realities; and (4) the smaller number of items, which makes it a scale of simpler application, we identiﬁed the DSS as a good alternative to replace the absence of instruments that measure this construct in Chile.</p>
+			<p>Based on the previous antecedents, we hypothesize that the DSS will obtain a unidimensional structure (Hypothesis 1) and high internal consistency (Hypothesis 2). On the other hand, we expect that the results of the DSS will correlate positively with the stereotypical attitudes on gender, and negatively with the transcendent ones (Hypothesis 3) and those who identify as religious, the men and women who identify with extreme stereotypical attitudes, and men, obtain signiﬁcantly higher scores on the DSS than non-religious people (Hypothesis 4), men (Hypothesis 5) and women (Hypothesis 6) who identify with extreme transcendent attitudes, and women (Hypothesis 7). This measurement will allow us to compile precise information about the phenomenon, compare its incidence with other realities, and contribute to socioaﬀective education plans.</p>
+			<p>Therefore, the present study seeks to establish evidence of the reliability and validity of the DSS for its use on Chilean university students. The following are the speciﬁc objectives: (1) demonstrate evidence of validity based on the internal structure of the DSS; (2) provide evidence of the internal consistency of the DSS; (3) evaluate evidence of convergent validity based on the relation with gender role attitudes; (4) evaluate evidence of discriminant validity by comparing the DSS total score of those participants who identify with a religion and those who self-identify as atheists or agnostics, and between those who show the most stereotypical and transcendent attitudes diﬀerentiating by sex; (5) determine diﬀerences in the DSS total score based on sex.</p>
+			<p>
+				<table-wrap id="t1">
+					<label>Table 1</label>
+					<caption>
+						<title>Evidence of Validity and Reliability of the Sexual Double Standard (DSS) Scale</title>
+					</caption>
+					<table frame="hsides" rules="groups">
+						<colgroup>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+						</colgroup>
+						<tbody>
+							<tr>
+								<td align="left">Country (Authors)</td>
+								<td align="left">Sample</td>
+								<td align="left">Evidence of validity based on the internal structure</td>
+								<td align="left">Reliability</td>
+								<td align="left">Evidence of validitybased on the relationwith other constructs</td>
+							</tr>
+							<tr>
+								<td align="left">US(<xref ref-type="bibr" rid="B6">Caron et al.,1993</xref>)</td>
+								<td align="left">University students(N= 330)</td>
+								<td align="left">Unifactorial</td>
+								<td align="left">α=.72</td>
+								<td align="left">Significant correlation with Attitude to Condoms Scale</td>
+							</tr>
+							<tr>
+								<td align="left">US(<xref ref-type="bibr" rid="B17">Greene &amp; Faulkner,2005</xref>)</td>
+								<td align="left">University students(N= 1396)</td>
+								<td align="left">Unifactorial</td>
+								<td align="left">α=.87</td>
+								<td align="left">Significant correlation with Sexual Self-Revelation Scale, Dyadic Sexual Communication Scale, and Dyadic Sexual Negotiation Scale</td>
+							</tr>
+							<tr>
+								<td align="left">Spain (<xref ref-type="bibr" rid="B44">Sierra et al.,2007</xref>)</td>
+								<td align="left">University students (N= 400)</td>
+								<td align="left">Unifactorial</td>
+								<td align="left">Women α=.70Men α=.76</td>
+								<td align="left">Significant correlation with the factors Erotophilia, Erotophobia, and Homophobia of the Sexual Opinion Survey</td>
+							</tr>
+							<tr>
+								<td align="left">Spain (<xref ref-type="bibr" rid="B47">Ubillos et al.,2016</xref>)</td>
+								<td align="left">Adolescents(N= 2919)</td>
+								<td align="left">Unifactorial (Elimination of items2, 8, and 10)</td>
+								<td align="left">α=.68</td>
+								<td align="left">Significant correlations with the original Double Standard Scale, the Ambivalent Sexism Inventory, and the Distorted Thoughts on the Woman and Violence Inventory</td>
+							</tr>
+							<tr>
+								<td align="left">El Salvador(<xref ref-type="bibr" rid="B44">Sierra &amp; Gutiérrez-Quintanilla, 2007</xref>)</td>
+								<td align="left">University students (N1 = 398 and N2= 1.224)</td>
+								<td align="left">Unifactorial (Elimination of items 3and 8)</td>
+								<td align="left">N1α=.73N2α=.78</td>
+								<td align="left">Do not include evidence of this type</td>
+							</tr>
+							<tr>
+								<td align="left">Brazil (<xref ref-type="bibr" rid="B40">Sierra et al., 2009</xref>)</td>
+								<td align="left">Women (N1 = 300and N2 = 500)</td>
+								<td align="left">Unifactorial (Elimination of item 8)</td>
+								<td align="left">α=.80</td>
+								<td align="left">Significant correlation with the Favorable Attitudes to Rape Scale</td>
+							</tr>
+							<tr>
+								<td align="left">Peru (<xref ref-type="bibr" rid="B45">Sierra et al., 2010</xref>)</td>
+								<td align="left">Women (N = 600)</td>
+								<td align="left">Unifactorial (Elimination of item 8)</td>
+								<td align="left">α=.79</td>
+								<td align="left">Significant correlation with the Favorable Attitudes to Rape Scale</td>
+							</tr>
+						</tbody>
+					</table>
+				</table-wrap>
+			</p>
+		</sec>
+		<sec sec-type="methods">
+			<title>2. Method</title>
+			<sec>
+				<title>2.1. Design</title>
+				<p>Since we provide evidence of validity and reliability, an instrumental design was adopted for the study (<xref ref-type="bibr" rid="B4">Ato et al., 2013</xref>).</p>
+			</sec>
+			<sec>
+				<title>2.2. Participants</title>
+				<p>The study sample is made up of 1,036 university students from central and southern Chile, a sample size considered using statistical criteria. 61.1% (<italic>n</italic> = 633) were women and 38.5% (<italic>n</italic> = 399) men. The 4 remaining participants (.4%) did not respond to this item. The average age of the participants was 20.4 years (<italic>SD</italic> = 1<italic>.</italic>7; age range between 18 and 25 years), and most were in the Faculty of Education, Social Sciences and Humanities (44.6%; <italic>n</italic> = 461) or the Faculty of Medicine (30.6%; <italic>n</italic> = 316). Of all the participants who responded to the question “Do you identify with some religion?” (<italic>N</italic> = 816), 31.7% (<italic>n</italic> = 259) said atheist or agnostic, 31.7% (<italic>n</italic> = 407) self-deﬁned as Catholic or Christian, 11.4% (<italic>n</italic> = 93) as Evangelical, and the remaining identiﬁed as other religions (17.6%, <italic>n</italic> = 57). <xref ref-type="table" rid="t2">Table 2</xref> contains the descriptive data of the sample in sociodemographic and study variables.</p>
+			</sec>
+			<sec>
+				<title>2.3. Instruments</title>
+				<sec>
+					<title>2.3.1. Ad hoc Sociodemographic Questionnaire</title>
+					<p>This is a brief questionnaire speciﬁcally designed for this study that collects data on variables such as sex, age, marital status, university faculty, ethnic group, and religious identity.</p>
+				</sec>
+				<sec>
+					<title>2.3.2. Sexual Double Standard Scale (DSS)</title>
+					<p>For the measurement of the SDS, we used the DSS (<xref ref-type="bibr" rid="B6">Caron et al., 1993</xref>) in its adapted version for El Salvador population (<xref ref-type="bibr" rid="B44">Sierra &amp; Gutiérrez-Quintanilla, 2007</xref>).</p>
+					<p>
+						<table-wrap id="t2">
+							<label>Table</label>
+							<caption>
+								<title>2. Descriptive Information of the Sample</title>
+							</caption>
+							<table frame="hsides" rules="groups">
+								<colgroup>
+									<col/>
+									<col/>
+									<col/>
+									<col/>
+									<col/>
+									<col/>
+									<col/>
+									<col/>
+								</colgroup>
+								<tbody>
+									<tr>
+										<td align="left"> </td>
+										<td align="left"> </td>
+										<td align="left">Total</td>
+										<td align="left"> </td>
+										<td align="left">Women</td>
+										<td align="left"> </td>
+										<td align="left">Men</td>
+										<td align="left"> </td>
+									</tr>
+									<tr>
+										<td align="left"> </td>
+										<td align="left"> </td>
+										<td align="left">n</td>
+										<td align="left">(%)</td>
+										<td align="left">n</td>
+										<td align="left">(%)</td>
+										<td align="left">n</td>
+										<td align="left">(%)</td>
+									</tr>
+									<tr>
+										<td align="left">Marital status (NTotal= 1015;NWomen= 620; NMen= 394)</td>
+										<td align="left">Single</td>
+										<td align="left">1007</td>
+										<td align="left">99.2</td>
+										<td align="left">617</td>
+										<td align="left">99.5</td>
+										<td align="left">389</td>
+										<td align="left">98.7</td>
+									</tr>
+									<tr>
+										<td align="left"> </td>
+										<td align="left">Married</td>
+										<td align="left">6</td>
+										<td align="left">.6</td>
+										<td align="left">3</td>
+										<td align="left">.5</td>
+										<td align="left">3</td>
+										<td align="left">.8</td>
+									</tr>
+									<tr>
+										<td align="left"> </td>
+										<td align="left">Separated</td>
+										<td align="left">2</td>
+										<td align="left">.2</td>
+										<td align="left">0</td>
+										<td align="left">0</td>
+										<td align="left">2</td>
+										<td align="left">.5</td>
+									</tr>
+									<tr>
+										<td align="left">Origin (NTotal= 1024;NWomen= 631; NMen= 393)</td>
+										<td align="left">Rural</td>
+										<td align="left">138</td>
+										<td align="left">13.5</td>
+										<td align="left">85</td>
+										<td align="left">13.5</td>
+										<td align="left">53</td>
+										<td align="left">13.5</td>
+									</tr>
+									<tr>
+										<td align="left"> </td>
+										<td align="left">Urban</td>
+										<td align="left">886</td>
+										<td align="left">86.5</td>
+										<td align="left">546</td>
+										<td align="left">86.5</td>
+										<td align="left">340</td>
+										<td align="left">86.5</td>
+									</tr>
+									<tr>
+										<td align="left">Ethnic group (NTotal= 150;NWomen= 87; NMen= 63)</td>
+										<td align="left">Mapuche</td>
+										<td align="left">134</td>
+										<td align="left">89.3</td>
+										<td align="left">79</td>
+										<td align="left">90.8</td>
+										<td align="left">55</td>
+										<td align="left">87.3</td>
+									</tr>
+									<tr>
+										<td align="left"> </td>
+										<td align="left">Chilean</td>
+										<td align="left">5</td>
+										<td align="left">3.3</td>
+										<td align="left">2</td>
+										<td align="left">2.3</td>
+										<td align="left">3</td>
+										<td align="left">4.8</td>
+									</tr>
+									<tr>
+										<td align="left"> </td>
+										<td align="left">Other</td>
+										<td align="left">11</td>
+										<td align="left">7.4</td>
+										<td align="left">6</td>
+										<td align="left">6.9</td>
+										<td align="left">5</td>
+										<td align="left">5.1</td>
+									</tr>
+									<tr>
+										<td align="left">Faculty (NTotal= 1034;NWomen= 632; NMen= 399)</td>
+										<td align="left">Education, Social Sciences and Humanities</td>
+										<td align="left">461</td>
+										<td align="left">44.6</td>
+										<td align="left">310</td>
+										<td align="left">49.1</td>
+										<td align="left">150</td>
+										<td align="left">37.5</td>
+									</tr>
+									<tr>
+										<td align="left"> </td>
+										<td align="left">Medicine</td>
+										<td align="left">316</td>
+										<td align="left">30.6</td>
+										<td align="left">200</td>
+										<td align="left">31.6</td>
+										<td align="left">115</td>
+										<td align="left">28.8</td>
+									</tr>
+									<tr>
+										<td align="left"> </td>
+										<td align="left">Engineering and Sciences</td>
+										<td align="left">109</td>
+										<td align="left">10.5</td>
+										<td align="left">42</td>
+										<td align="left">6.6</td>
+										<td align="left">67</td>
+										<td align="left">16.8</td>
+									</tr>
+									<tr>
+										<td align="left"> </td>
+										<td align="left">Legal and Business Sciences</td>
+										<td align="left">99</td>
+										<td align="left">9.6</td>
+										<td align="left">57</td>
+										<td align="left">9</td>
+										<td align="left">42</td>
+										<td align="left">10.5</td>
+									</tr>
+									<tr>
+										<td align="left"> </td>
+										<td align="left">Dentistry</td>
+										<td align="left">33</td>
+										<td align="left">3.2</td>
+										<td align="left">19</td>
+										<td align="left">3</td>
+										<td align="left">14</td>
+										<td align="left">3.5</td>
+									</tr>
+									<tr>
+										<td align="left"> </td>
+										<td align="left">Agricultural and Forestry Sciences</td>
+										<td align="left">16</td>
+										<td align="left">1.5</td>
+										<td align="left">4</td>
+										<td align="left">.6</td>
+										<td align="left">11</td>
+										<td align="left">2.8</td>
+									</tr>
+									<tr>
+										<td align="left">Religion or Creed (NTotal= 816;NWomen= 510; NMen= 303)</td>
+										<td align="left">Catholic/Christian</td>
+										<td align="left">407</td>
+										<td align="left">39.3</td>
+										<td align="left">275</td>
+										<td align="left">54</td>
+										<td align="left">132</td>
+										<td align="left">43.6</td>
+									</tr>
+									<tr>
+										<td align="left"> </td>
+										<td align="left">None or atheist/agnostic</td>
+										<td align="left">259</td>
+										<td align="left">31.7</td>
+										<td align="left">141</td>
+										<td align="left">27.7</td>
+										<td align="left">115</td>
+										<td align="left">37.9</td>
+									</tr>
+									<tr>
+										<td align="left"> </td>
+										<td align="left">Evangelical</td>
+										<td align="left">93</td>
+										<td align="left">11.4</td>
+										<td align="left">65</td>
+										<td align="left">12.7</td>
+										<td align="left">28</td>
+										<td align="left">9.2</td>
+									</tr>
+									<tr>
+										<td align="left"> </td>
+										<td align="left">Other</td>
+										<td align="left">57</td>
+										<td align="left">17.6</td>
+										<td align="left">29</td>
+										<td align="left">5.6</td>
+										<td align="left">28</td>
+										<td align="left">9.2</td>
+									</tr>
+									<tr>
+										<td align="left"> </td>
+										<td align="left"> </td>
+										<td align="left">Total</td>
+										<td align="left"> </td>
+										<td align="left">Women</td>
+										<td align="left"> </td>
+										<td align="left">Men</td>
+										<td align="left"> </td>
+									</tr>
+									<tr>
+										<td align="left"> </td>
+										<td align="left"> </td>
+										<td align="left"><italic>M</italic></td>
+										<td align="left"><italic>SD</italic></td>
+										<td align="left"><italic>M</italic></td>
+										<td align="left"><italic>SD</italic></td>
+										<td align="left"><italic>M</italic></td>
+										<td align="left"><italic>SD</italic></td>
+									</tr>
+									<tr>
+										<td align="left">DSS (NTotal= 1032;NWomen= 633;NMen= 339)</td>
+										<td align="left"> </td>
+										<td align="left">16.62</td>
+										<td align="left">6.03</td>
+										<td align="left">15.03</td>
+										<td align="left">15.03</td>
+										<td align="left">15.03</td>
+										<td align="left">15.03</td>
+									</tr>
+									<tr>
+										<td align="left">SA (NTotal= 991;NWomen= 610;NMen= 381)</td>
+										<td align="left"> </td>
+										<td align="left">21.53</td>
+										<td align="left">7.55</td>
+										<td align="left">5.33</td>
+										<td align="left">5.33</td>
+										<td align="left">5.33</td>
+										<td align="left">5.33</td>
+									</tr>
+									<tr>
+										<td align="left">TA (NTotal= 1017;NWomen= 624;NMen= 377)</td>
+										<td align="left"> </td>
+										<td align="left">22.88</td>
+										<td align="left">2.77</td>
+										<td align="left">19.17</td>
+										<td align="left">19.17</td>
+										<td align="left">19.17</td>
+										<td align="left">19.17</td>
+									</tr>
+								</tbody>
+							</table>
+							<table-wrap-foot>
+								<fn id="TFN1">
+									<p>Note. M=Mean; SD=Standard Deviation; SA=Stereotypical attitudes sub-scale; TA=Transcendent Attitudes sub-scale.</p>
+								</fn>
+							</table-wrap-foot>
+						</table-wrap>
+					</p>
+					<p>We revised the wording of the items, and it was not necessary to make any linguistic modiﬁcations for its adaptation to the Chilean context. The DSS is comprised of 10 items formulated with statements like “In sex, the man must take the dominant role and the woman the passive role”, to be evaluated on a Likert-type scale with ﬁve response alternatives from 1 (Strongly disagree) to 5 (Strongly agree). Item 8 is the only one written inversely. Higher scores indicate greater adherence to the traditional sexual double standard. Information on the psychometric properties of the scale in diﬀerent countries and study samples is in <xref ref-type="table" rid="t1">Table 1</xref>.</p>
+				</sec>
+				<sec>
+					<title>2.3.3. Gender Role Attitudes Scale (GRAS)</title>
+					<p>As a measurement of attitudes to gender roles, we selected the Gender Role Attitudes Scale (GRAS; GarcíaCueto et al., 2015) because it is a recently developed instrument with evidence of reliability and validity for its use on Chilean university students (<xref ref-type="bibr" rid="B31">Pérez et al., 2021</xref>), considering male and female gender roles in the family, social and occupational spheres. This makes the GRAS a good candidate to measure attitudes on the current Chilean sociocultural scene. In addition, it is made up of two factors, measuring both types of attitudes simultaneously: transcendent attitudes of 5 items such as “Should people be treated equally, regardless of their sex” (evaluation of the behavior transcending gender) and Stereotypical Attitudes of 12 items such as “In many important jobs, it is better to hire men than women” (evaluation of behavior adhering to traditional gender stereotypes). The higher the score, the greater the presence of both types of attitudes. In the study sample, an adequate internal consistency with an Ordinal <italic>α</italic> of .805 was obtained for the factor Transcendent Attitudes and an Ordinal of .906 for the factor Stereotypical Attitudes.</p>
+				</sec>
+			</sec>
+			<sec>
+				<title>2.4. Procedure</title>
+				<p>First, we conducted a pilot test with 50 university students, which allowed us to verify the correct understanding of the instructions, items, and language, and no changes were necessary. The researchers went to the classrooms during school hours and provided information on the characteristics of the study and its voluntary and anonymous nature. The participants formalized their willingness to participate by signing an informed consent approved by the Scientiﬁc Ethics Committee of the Universidad de La Frontera (Temuco, Chile), and then they responded to the battery of instruments individually in pencil and paper format. The application took approximately 40 minutes, and there was no economic or any other type of compensation.</p>
+			</sec>
+			<sec>
+				<title>2.5. Data Analysis</title>
+				<p>We carried out a data imputation process for some of the instrument’s items when the data loss was equal to or less than 10%, considering the mean of the participant in the factor where the item belonged. When the loss was greater than 10%, the data were rejected for this instrument or factor. Multivariate normality was verified by Mardia’s coefficient, the analysis of the discriminant capacity of the items was done by means of corrected item-total correlation, and the reliability of the instrument was measured using three variants of the alpha coefficient: standardized Cronbach’s alpha, Mc-Donald’s omega, and Ordinal alpha using a polychoricmatrix (<xref ref-type="bibr" rid="B11">Elosua &amp; Zumbo,2008</xref>).</p>
+				<p>Then, the fit of the unidimensional structure of the DSS was tested on the study sample, using a confirmatory factor analysis (CFA). Due to the violation of multivariate normality, the robust option of the unweighted least squares estimator (ULSMV) on a polychoric matrix was used. This is an estimator for categorical variables that do not present a normal distribution(<xref ref-type="bibr" rid="B26">Li,2014</xref>).Indices of fit included root mean square error of approximation (RMSEA), the comparative fit index (CFI), and the Tucker-Lewis index (TLI). For an optimal fit, CFI and TLI≥.95, and RMSEA≤.05 were considered. Fora reasonable fit, CFI and TLI≥.90, and RMSEA&lt;.08were contemplated(<xref ref-type="bibr" rid="B22">Hu &amp; Bentler,1999</xref>).</p>
+				<p>For the study of evidence of convergent validity, Pearson’s rcorrelation coefficient between the total scale of the DSS and the factors on the GRAS was used. The analysis to demonstrate evidence of discriminant valid-ity and the comparison of the sexes were done using thet-test for independent samples, and the effect size was calculated using Cohen’s <italic>d</italic> for different sized groups. In both cases, Cohen’s rules of interpretation(1988)were used, which establish that: r&gt;.1, small;r&gt;.3, medium; andr&gt;.5, large and that d&gt;.2, small; d&gt;.5, medium; andd&gt;.8, large.</p>
+				<p>The statistical packages used to carry out these analyses were IBM SPSS Statistics 21.0 to calculate the descriptive, correlational, and bivariate statistics, FAC-TOR 10.8.04 to estimate the standardized Cronbach’s alpha and McDonald’s omega, and MPlus 7 to perform the CFA. Ordinal alpha was calculated using Excel.</p>
+			</sec>
+		</sec>
+		<sec sec-type="results">
+			<title>3. Results</title>
+			<sec>
+				<title>3.1 Preliminary Analyses</title>
+				<p>The data presented skewness (Mardia’s coeﬃcient = 30.085, <italic>χ</italic>
+ <sup>2</sup> = 6576<italic>.</italic>067, <italic>df</italic> = 220, <italic>p &lt; .</italic>001) and kurtosis (Mardia’s coeﬃcient = 208.769, <italic>𝑥</italic> = 92<italic>.</italic>215, <italic>p &lt; .</italic>001), so the assumption of multivariate normality was not fulfilled. The values of the discrimination index of the items (corrected item-total correlation) were over .3 in all cases (see <xref ref-type="table" rid="t3">Table 3</xref>). Consequently, all the items on the scale were maintained.</p>
+			</sec>
+			<sec>
+				<title>3.2 Factor Structure</title>
+				<p>Using a CFA, an adequate fit of the DSS unifactorial structure was demonstrated (<xref ref-type="fig" rid="f1">Figure 1</xref>). The fit indices wereχ2= 239.923,df= 35,p&lt;.05; RMSEA=.075 (90% CI[.066 .084]); CFI = .978; TLI = .972. <xref ref-type="table" rid="t4">Table 4</xref> shows the factor loadings for each item, which ranged between.525 and .824 and their communalities. Hypothesis 1 is fulfilled.</p>
+				<p>
+					<fig id="f1">
+						<label>Figure 1</label>
+						<caption>
+							<title>Unifactorial structure of the DSS scale and factorial weights of the items</title>
+						</caption>
+						<graphic xlink:href="2011-2084-ijpr-15-02-10-gf1.jpg"/>
+					</fig>
+				</p>
+			</sec>
+			<sec>
+				<title>3.3. Internal Consistency</title>
+				<p>The reliability coeﬃcients of the unifactorial structure of the DSS were higher than .9, standardized <italic>α</italic> = <italic>.</italic>917, McDonald’s omega = .919, and Ordinal <italic>α</italic> = .918. As seen in <xref ref-type="table" rid="t3">Table 3</xref>, the Ordinal <italic>α</italic> improves by .001 if items 3 and 8 are eliminated. However, the improvement margin is very small. All the items on the DSS were maintained. Hypothesis 2 is fulﬁlled.</p>
+			</sec>
+			<sec>
+				<title>3.4. Evidence of Convergent Validity</title>
+				<p>Consistent with hypothesis 3, the correlation between the DSS and the subscale of stereotypical attitudes regarding gender roles was positive, signiﬁcant, and large (<italic>r</italic> = <italic>.</italic>650; <italic>p .</italic>001), i.e., the greater the SDS, the greater the presence of stereotypical attitudes on gender roles. On the other hand, the association with the transcendent attitudes on gender roles subscale was negative, signiﬁcant, and medium (<italic>r</italic> = <italic>.</italic>405; <italic>p .</italic>001), which implies that the greater the presence of diﬀerentiated evaluations on sexuality between men and women, the lower the score in evaluations on behavior transcending gender.</p>
+				<p>
+					<table-wrap id="t3">
+						<label>Table 3</label>
+						<caption>
+							<title>Descriptive Statistics and Analysis of Reliability for the Items of the DSS</title>
+						</caption>
+						<table frame="hsides" rules="groups">
+							<colgroup>
+								<col/>
+								<col/>
+								<col/>
+								<col/>
+								<col/>
+								<col/>
+								<col/>
+							</colgroup>
+							<thead>
+								<tr>
+									<th align="left">Item</th>
+									<th align="left">M</th>
+									<th align="left">SD</th>
+									<th align="left">Skewness</th>
+									<th align="left"> </th>
+									<th align="left">Kurtosis</th>
+									<th align="left">I-T Correlation Ordinal Alpha if item discarded</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td align="left">1</td>
+									<td align="left">1.85</td>
+									<td align="left">1.000</td>
+									<td align="left">1.022</td>
+									<td align="left">.272</td>
+									<td align="left">592</td>
+									<td align="left">909</td>
+								</tr>
+								<tr>
+									<td align="left">2</td>
+									<td align="left">1.99</td>
+									<td align="left">1.117</td>
+									<td align="left">.878</td>
+									<td align="left"><italic>−</italic>.269</td>
+									<td align="left">597</td>
+									<td align="left">909</td>
+								</tr>
+								<tr>
+									<td align="left">3</td>
+									<td align="left">2.21</td>
+									<td align="left">1.329</td>
+									<td align="left">.847</td>
+									<td align="left"><italic>−</italic>.474</td>
+									<td align="left">359</td>
+									<td align="left">919</td>
+								</tr>
+								<tr>
+									<td align="left">4</td>
+									<td align="left">1.53</td>
+									<td align="left">.776</td>
+									<td align="left">1.622</td>
+									<td align="left">2.856</td>
+									<td align="left">599</td>
+									<td align="left">905</td>
+								</tr>
+								<tr>
+									<td align="left">5</td>
+									<td align="left">1.47</td>
+									<td align="left">.848</td>
+									<td align="left">2.058</td>
+									<td align="left">4.094</td>
+									<td align="left">597</td>
+									<td align="left">905</td>
+								</tr>
+								<tr>
+									<td align="left">6</td>
+									<td align="left">1.41</td>
+									<td align="left">.772</td>
+									<td align="left">2.173</td>
+									<td align="left">4.838</td>
+									<td align="left">573</td>
+									<td align="left">906</td>
+								</tr>
+								<tr>
+									<td align="left">7</td>
+									<td align="left">1.49</td>
+									<td align="left">.828</td>
+									<td align="left">1.745</td>
+									<td align="left">2.685</td>
+									<td align="left">640</td>
+									<td align="left">903</td>
+								</tr>
+								<tr>
+									<td align="left">8</td>
+									<td align="left">1.60</td>
+									<td align="left">.931</td>
+									<td align="left">1.860</td>
+									<td align="left">3.457</td>
+									<td align="left">346</td>
+									<td align="left">919</td>
+								</tr>
+								<tr>
+									<td align="left">9</td>
+									<td align="left">1.69</td>
+									<td align="left">1.004</td>
+									<td align="left">1.375</td>
+									<td align="left">1.039</td>
+									<td align="left">634</td>
+									<td align="left">905</td>
+								</tr>
+								<tr>
+									<td align="left">10</td>
+									<td align="left">1.36</td>
+									<td align="left">.671</td>
+									<td align="left">2.078</td>
+									<td align="left">4.926</td>
+									<td align="left">587</td>
+									<td align="left">906</td>
+								</tr>
+							</tbody>
+						</table>
+						<table-wrap-foot>
+							<fn id="TFN2">
+								<p><italic>Note. M</italic> =Mean; <italic>SD</italic>=Standard Deviation; I-T Correlation=Corrected item-total correlation (discriminant index).</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>
+					<table-wrap id="t4">
+						<label>Table 4.</label>
+						<caption>
+							<title>Factor Loadings and Communalities of the DSS’s Items</title>
+						</caption>
+						<table frame="hsides" rules="groups">
+							<colgroup>
+								<col/>
+								<col/>
+								<col/>
+							</colgroup>
+							<thead>
+								<tr>
+									<th align="left">Item</th>
+									<th align="left">FL</th>
+									<th align="center">h2</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td align="left">1. It is expected that a woman will be less sexually experienced than her partner</td>
+									<td align="left">726</td>
+									<td align="left">527</td>
+								</tr>
+								<tr>
+									<td align="left">2. A woman who is sexually active is less likely to be desired as a partner</td>
+									<td align="left">.721</td>
+									<td align="left">.520</td>
+								</tr>
+								<tr>
+									<td align="left">3. A woman should never appear to be prepared for a sexual encounter</td>
+									<td align="left">.527</td>
+									<td align="left">.278</td>
+								</tr>
+								<tr>
+									<td align="left">4. It is important for men to be experienced sexually to be able to teach the woman</td>
+									<td align="left">.788</td>
+									<td align="left">.621</td>
+								</tr>
+								<tr>
+									<td align="left">5. A “nice” woman has never had a one-night stand, but a man is expected to have had one</td>
+									<td align="left">.794</td>
+									<td align="left">.630</td>
+								</tr>
+								<tr>
+									<td align="left">6. It is important for a man to have multiple sexual encounters to gain experience</td>
+									<td align="left">.785</td>
+									<td align="left">.616</td>
+								</tr>
+								<tr>
+									<td align="left">7. In sex, the man must take the dominant role and the woman the passive role</td>
+									<td align="left">.824</td>
+									<td align="left">.679</td>
+								</tr>
+								<tr>
+									<td align="left">8. It is acceptable for a woman to carry her own condoms</td>
+									<td align="left">.525</td>
+									<td align="left">.276</td>
+								</tr>
+								<tr>
+									<td align="left">9. It is worse for a woman to be promiscuous than for a man</td>
+									<td align="left">.792</td>
+									<td align="left">.627</td>
+								</tr>
+								<tr>
+									<td align="left">10. It is the mans decision to initiate sex</td>
+									<td align="left">.785</td>
+									<td align="left">.616</td>
+								</tr>
+							</tbody>
+						</table>
+						<table-wrap-foot>
+							<fn id="TFN3">
+								<p><italic>Note.</italic> FL=Factor Loadings; h2=Communalities.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+			</sec>
+			<sec>
+				<title>3.5. Evidence of Discriminant Validity</title>
+				<p>The groups were not equivalent in the variable sex, so we made a random selection of cases to maintain an equitable distribution of men and women in each group (50% men and 50% women in each group). Once the sample was balanced for sex and the equivalence of the resulting groups was veriﬁed for age, the analysis of mean diﬀerences was performed.</p>
+				<p>When comparing by religious identiﬁcation, statistically signiﬁcant diﬀerences were found between the participants who declared to be atheists or agnostics and those who identiﬁed with a religion, with a small eﬀect size (Hypothesis 4). Those who identiﬁed with a religious group presented a higher average score in the DSS (see <xref ref-type="table" rid="t5">Table 5</xref>).</p>
+				<p>To compare the participants with extreme gender role attitudes, we selected the 4th quartile in the stereotypical and transcendent factors. Once the equivalence of the groups was veriﬁed for the age, we compared extreme attitudinal groups on the DSS total score for each sex. As seen in <xref ref-type="table" rid="t5">Table 5</xref>, and consistent with hypothesis 5 and 6, stereotypical extreme groups scored signiﬁcantly higher on the total DSS score. The eﬀect size absolute value was large in both cases.</p>
+			</sec>
+			<sec>
+				<title>3.6. Diﬀerences in Sexual Double Standard between Men and Women</title>
+				<p>The groups were not equivalent in terms of religion, which is why we made a random selection of cases to maintain an equitable distribution of atheists/agnostics and religious people in eachgroup (50% ofatheists/agnostics and 50% religious). Once the sample was balanced for religious identiﬁcation and the equivalence of the resulting groups was veriﬁed for age, the analysis of mean diﬀerences was performed. The result of the t-test for independent samples yielded signiﬁcant diﬀerences in the mean score on the DSS between women and men, with men scoring higher in SDS. The eﬀect size was large (see <xref ref-type="table" rid="t5">Table 5</xref>), and, therefore, hypothesis 7 is fulﬁlled.</p>
+			</sec>
+		</sec>
+		<sec sec-type="discussion">
+			<title>4. Discussion</title>
+			<p>In the absence of a scale with evidence of reliability and validity in Chile that assesses SDS, in this study the objective was to establish evidence of validity of the DSS for its use on Chilean university students, analyzing its factorial structure, internal consistency, evidence of convergent and discriminant validity, as well as exploring the diﬀerences in the SDS according to sex.</p>
+			<p>
+				<table-wrap id="t5">
+					<label>Table5.</label>
+					<caption>
+						<title><italic>Mean Diﬀerences in the Total Score of the DSS</italic></title>
+					</caption>
+					<table frame="hsides" rules="groups">
+						<colgroup>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+						</colgroup>
+						<tbody>
+							<tr>
+								<td align="left"> </td>
+								<td align="left"><italic>n</italic></td>
+								<td align="left"><italic>M</italic></td>
+								<td align="left"><italic>SD</italic></td>
+								<td align="left"><italic>T</italic></td>
+								<td align="left"><italic>df</italic></td>
+								<td align="left"><italic>p</italic></td>
+								<td align="left"><italic>d</italic></td>
+							</tr>
+							<tr>
+								<td align="left">Religious identification</td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+							</tr>
+							<tr>
+								<td align="left">Atheists/agnostics</td>
+								<td align="left">230</td>
+								<td align="left">15.98</td>
+								<td align="left">6.05</td>
+								<td align="left">-4.086</td>
+								<td align="left">604</td>
+								<td align="left">&lt;.001</td>
+								<td align="left">.339</td>
+							</tr>
+							<tr>
+								<td align="left">Religious</td>
+								<td align="left">375</td>
+								<td align="left">18.08</td>
+								<td align="left">6.24</td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+							</tr>
+							<tr>
+								<td align="left">Gender attitudes (Men)</td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+							</tr>
+							<tr>
+								<td align="left">Stereotypical extremes</td>
+								<td align="left">81</td>
+								<td align="left">22.60</td>
+								<td align="left">5.25</td>
+								<td align="left">13.28</td>
+								<td align="left">272</td>
+								<td align="left">&lt;.001</td>
+								<td align="left">1.69</td>
+							</tr>
+							<tr>
+								<td align="left">Transcendent extremes</td>
+								<td align="left">93</td>
+								<td align="left">14.05</td>
+								<td align="left">4.61</td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+							</tr>
+							<tr>
+								<td align="left">Gender attitudes (Women)</td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+							</tr>
+							<tr>
+								<td align="left">Stereotypical extremes</td>
+								<td align="left">83</td>
+								<td align="left">20.27</td>
+								<td align="left">6.32</td>
+								<td align="left">9.402</td>
+								<td align="left">102.89</td>
+								<td align="left">&lt;.001</td>
+								<td align="left">1.466</td>
+							</tr>
+							<tr>
+								<td align="left">Transcendent extremes</td>
+								<td align="left">292</td>
+								<td align="left">13.36</td>
+								<td align="left">4.15</td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+							</tr>
+							<tr>
+								<td align="left">Sex</td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+							</tr>
+							<tr>
+								<td align="left">Men</td>
+								<td align="left">230</td>
+								<td align="left">19.60</td>
+								<td align="left">6.34</td>
+								<td align="left">9.979</td>
+								<td align="left">429</td>
+								<td align="left">&lt;.001</td>
+								<td align="left">.892</td>
+							</tr>
+							<tr>
+								<td align="left">Women</td>
+								<td align="left">282</td>
+								<td align="left">14,57</td>
+								<td align="left">4.99</td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+								<td align="left"> </td>
+							</tr>
+						</tbody>
+					</table>
+					<table-wrap-foot>
+						<fn id="TFN4">
+							<p>Note. n=Sample size; M=Mean; SD=Standard Deviation; t=Student’s Tstatistic; df=degrees of freedom; p=p-value; d=Cohen’sd.</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+			</p>
+			<p>First of all, and according to the hypothesis, our ﬁndings were consistent with the unidimensional structure of the scale in the original study (<xref ref-type="bibr" rid="B6">Caron et al., 1993</xref>), and studies on its psychometric properties for its use in the US (<xref ref-type="bibr" rid="B17">Greene &amp; Faulkner, 2005</xref>), Spain (<xref ref-type="bibr" rid="B44">Sierra et al., 2007</xref>; <xref ref-type="bibr" rid="B47">Ubillos et al., 2016</xref>), El Salvador (<xref ref-type="bibr" rid="B41">Sierra &amp; Gutiérrez-Quintanilla, 2007</xref>), Brazil (<xref ref-type="bibr" rid="B40">Sierra et al., 2009</xref>), and Peru (<xref ref-type="bibr" rid="B42">Sierra et al., 2010</xref>), although we did not observe the unanimous diﬃculty identiﬁed on the low discriminative capacity of item 8, the only inverse item on the DSS, by studies in Spain in its version for adolescents, El Salvador, Brazil, and Peru, nor in any other item (see <xref ref-type="table" rid="t1">Table 1</xref>). On the other hand, although items 3 and 8 reached adequate skewness and kurtosis, and corrected item-total correlations and factor loadings over .5, we observed a slight improvement in the internal consistency of the scale with its elimination. However, the evidence indicated does not justify the suppression of these questions since the combined evaluation of all these indicators is positive. In addition, the scale obtained an excellent internal consistency, higher than that reported by the other studies, which ranged between .68 and .87 (<xref ref-type="bibr" rid="B6">Caron et al., 1993</xref>; <xref ref-type="bibr" rid="B17">Greene &amp; Faulkner, 2005</xref>; <xref ref-type="bibr" rid="B41">Sierra et al., 2007</xref>; <xref ref-type="bibr" rid="B40">Sierra et al., 2009</xref>; <xref ref-type="bibr" rid="B41">Sierra &amp; Gutiérrez-Quintanilla, 2007</xref>; <xref ref-type="bibr" rid="B42">Sierra et al., 2010</xref>; <xref ref-type="bibr" rid="B47">Ubillos et al., 2016</xref>). Nevertheless, we consider that the behavior of these items must be carefully observed in other study samples in Chile.</p>
+			<p>Moreover, and consistent with our hypothesis, the people participating with a high SDS present greater agreement with stereotypical attitudes towards gender, and less agreement with transcendent attitudes. In addition, both men and women with extreme scores in stereotypical attitudes present a more pronounced SDS than men and women with extreme transcendent attitudes. These ﬁndings are consistent with other studies that point to a relation between traditional beliefs and the approval of the SDS and report its expression as a form of resistance to gender equality (<xref ref-type="bibr" rid="B2">Arcos &amp; Dewitte, 2021</xref>; <xref ref-type="bibr" rid="B16">Gómez-Berrocal et al., 2019</xref>; <xref ref-type="bibr" rid="B35">Rudman et al., 2013</xref>; <xref ref-type="bibr" rid="B47">Ubillos et al., 2016</xref>; <xref ref-type="bibr" rid="B49">Zaikman &amp; Marks, 2017</xref>). Also, those who identify as religious show higher scores in the SDS. This is an expected result according to the rigidity of religious institutions where gender roles apply, ingrained beliefs in texts and practices of the main religions, indicating female sexuality only as a means of reproduction (<xref ref-type="bibr" rid="B30">Pérez et al., 2022</xref>; <xref ref-type="bibr" rid="B38">Sciurano et al., 2021</xref>; <xref ref-type="bibr" rid="B39">Seguino, 2011</xref>). Indeed, both ﬁndings coincide with the perspective of biosocial theory, which argues the existence of moderating factors of the SDS according to local ecology, in this case, predominant cultural norms in Chilean society, to the detriment of the evolutionary theories that support the SDS in biological diﬀerences (<xref ref-type="bibr" rid="B9">Eagly &amp; Wood, 1999</xref>; <xref ref-type="bibr" rid="B12">Endendijk et al., 2020</xref>; <xref ref-type="bibr" rid="B47">Ubillos et al., 2016</xref>; <xref ref-type="bibr" rid="B49">Zaikman &amp; Marks, 2017</xref>; <xref ref-type="bibr" rid="B48">Zaikman et al., 2016</xref>). Thus, the SDS emerges as the expression of a traditional view of gender, mainly entrenched in religious institutions. Nevertheless, <xref ref-type="bibr" rid="B12">Endendijk et al. (2020)</xref> note that the division of roles may have an evolutionary origin, and biology greater relevance in reproductive sexual behaviors, proposing a hybrid model that combines both perspectives.</p>
+			<p>Men show a greater SDS than women, a result in the same line as the ﬁndings of the reviews by <xref ref-type="bibr" rid="B14">Fugère et al. (2008)</xref> and <xref ref-type="bibr" rid="B33">Petersen and Hyde (2010)</xref>, and other more recent works (<xref ref-type="bibr" rid="B19">Guo, 2019</xref>; <xref ref-type="bibr" rid="B43">Sierra et al., 2018</xref>), in contrast to the results of the meta-analytical review by <xref ref-type="bibr" rid="B12">Endendijk et al. (2020)</xref>. This leads us to think that the female control theory does not operate in the study sample, whereas the male control theory does: the men defend greater sexual freedom for themselves and support an SDS that beneﬁts them, perpetuating their privilege, status, and social and sexual power (<xref ref-type="bibr" rid="B16">Gómez-Berrocal et al., 2019</xref>; Sierra et al., 2018; <xref ref-type="bibr" rid="B35">Rudman et al., 2013</xref>). However, it should be noted that a group of women with noticeably stereotypical gender attitudes also reported signiﬁcant support for the SDS, compared to women with extreme transcendent attitudes, despite the negative consequences that this phenomenon has for them. In addition, these diﬀerences are just as strong as in the group of men. In this small group of the sample, the female power theory could be operating. <xref ref-type="bibr" rid="B35">Rudman et al. (2013)</xref> oﬀer an alternative explanation: by accepting the SDS, women are seeking to avoid the negative consequences that transgressions to traditional sexual norms entail, protecting themselves from the sexual stigma and the myths about rape that justify the violence towards them. However, other works have tried to shed light on these inconsistencies, alluding to higher levels of complexity in the phenomenon. <xref ref-type="bibr" rid="B37">Sakaluk and Milhausen (2012)</xref>, in a Canadian sample, found a more pronounced SDS in men when the measurement used was about explicit attitudes, whereas when the measurement was implicit, the men demonstrated a neutral evaluation, and the women an inverse SDS. More recently, <xref ref-type="bibr" rid="B1">Álvarez-Muelas et al. (2021)</xref> analyzed the prevalence by gender of adherence to diﬀerent typologies of the SDS in a Spanish sample. The prevalence of the typology that favors the man was greater among the men. By contrast, the women showed greater support for social changes in favor of egalitarian sexual behaviors through a noticeable preference for SDS typologies oriented to gender equality or favorable to their group. The authors interpret these results as a reaction against the lack of sexual power, empowerment of women, and their increasing concern and awareness of sexual violence.</p>
+			<p>This background shows the DSS as a measurement with evidence of reliability and validity, both convergent and discriminant, for use in Chile, which positions it as the ﬁrst measurement to replace the absence of tools to assess the SDS in the Chilean sociocultural reality. The chance to study the SDS among Chilean young people is an opportunity in terms of sexual and aﬀective education, since, as we commented previously, SDS is related to damaging trends such as social sanctions for the woman (<xref ref-type="bibr" rid="B49">Zaikman &amp; Marks, 2017</xref>), the deterioration of sexual functioning and satisfaction (<xref ref-type="bibr" rid="B2">Arcos &amp; Dewitte, 2021</xref>; <xref ref-type="bibr" rid="B17">Greene &amp; Faulkner, 2005</xref>; <xref ref-type="bibr" rid="B20">Haavio-Mannila &amp; Kontula, 2003</xref>; <xref ref-type="bibr" rid="B24">Kim et al., 2019</xref>; <xref ref-type="bibr" rid="B40">Sierra et al., 2009</xref>; <xref ref-type="bibr" rid="B41">Sierra et al., 2007</xref>; <xref ref-type="bibr" rid="B42">Sierra et al., 2010</xref>; <xref ref-type="bibr" rid="B46">Thomas &amp; Thurston, 2016</xref>), risky sexual practices (<xref ref-type="bibr" rid="B6">Caron et al., 1993</xref>; <xref ref-type="bibr" rid="B8">Crawford &amp; Popp, 2003</xref>; <xref ref-type="bibr" rid="B13">Fasula et al., 2014</xref>; Kim et al., 2019), sexual aggression and victimization (<xref ref-type="bibr" rid="B1">Álvarez-Muelas et al., 2021</xref>; <xref ref-type="bibr" rid="B42">Sierra et al., 2010</xref>) and intimate partner violence, and the inability to recognize the intimate partner violence (<xref ref-type="bibr" rid="B24">Kim et al., 2019</xref>; <xref ref-type="bibr" rid="B47">Ubillos et al., 2016</xref>). Thus, the DSS emerges as a useful tool to cultivate sex-aﬀective education programs, promote sexual health, and identify individuals and groups at risk in various spheres.</p>
+			<p>This study is not without its limitations. First of all, the sample is comprised of university students with a deﬁned age range and in two speciﬁc areas of the country. This selection could have inﬂuenced the results considering the evolutionary, cultural, and socio-economic characteristics of this group, being unable to extrapolate the results to populations with other characteristics. For this reason, it is recommended that future research extend such studies to more diverse samples, as <xref ref-type="bibr" rid="B36">Sagebin-Bordini and Sperb (2013)</xref> suggest. In addition, we must indicate that the nature of the statistical analyses used does not allow us to establish relations of causality. Another relevant limitation has to do with the nature of the DSS. As we commented previously, the implicit measures and intrasubject designs largely reﬂect people’s attitudes on a personal level (<xref ref-type="bibr" rid="B12">Endendijk et al., 2020</xref>; <xref ref-type="bibr" rid="B16">Gómez-Berrocal, 2019</xref>; <xref ref-type="bibr" rid="B37">Sakaluk &amp; Milhausen, 2012</xref>; <xref ref-type="bibr" rid="B43">Sierra et al., 2018</xref>). The DSS, although it fulﬁlls a series of advantages over other measurements, such as the brevity and the extension of its use, is an explicit measurement that mainly represents the perception of the level of support for the SDS on the part of society at the expense of personal attitudes (<xref ref-type="bibr" rid="B12">Endendijk et al., 2020</xref>). This must be considered when interpreting the results. In addition, the DSS does not allow us to analyze the complexity that the phenomenon has demonstrated in other studies (<xref ref-type="bibr" rid="B1">Álvarez-Muelas et al., 2021</xref>; <xref ref-type="bibr" rid="B37">Sakaluk &amp; Milhausen, 2012</xref>). Thus, using the DSS it is not possible to determine, for example, if an egalitarian attitude or support for an inverse SDS in favor of women is hidden behind the SDS. Consequently, the proposal is to delve more deeply into the aspects of this construct in future studies, taking implicit measurements as complementary to the DSS.</p>
+			<p>Finally, it is concluded that the DSS has obtained a unidimensional structure, excellent internal consistency in the study sample, and two types of evidence of validity for the use of its score on Chilean university students. These results position it as the ﬁrst scale in Chile for the measurement of the SDS. In addition, it emerges as a potential work tool in education programs, given the extensive bibliography that associates this construct with harmful behaviors on the aﬀective and sexual levels.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>References</title>
+			<ref id="B1">
+				<mixed-citation>Álvarez-Muelas, A., Gómez-Berrocal, C., &amp; Sierra, J. C. (2021). Typologies of Sexual Double Standard Adherence in Spanish Population. <italic>The European Journal of Psychology Applied to Legal Context</italic>, <italic>13</italic> (1), 1-7. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5093/ejpalc2021a1">https://doi.org/10.5093/ejpalc2021a1</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Álvarez-Muelas</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Gómez-Berrocal</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Sierra</surname>
+							<given-names>J. C.</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Typologies of Sexual Double Standard Adherence in Spanish Population</article-title>
+					<source>The European Journal of Psychology Applied to Legal Context</source>
+					<volume>13</volume>
+					<issue>1</issue>
+					<fpage>1</fpage>
+					<lpage>7</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5093/ejpalc2021a1">https://doi.org/10.5093/ejpalc2021a1</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Arcos, D., &amp; Dewitte, M. (2021). Individual, Relational, and Sociocultural Determinants of Sexual Function and Sexual Satisfaction in Ecuador. <italic>Sexual Medicine</italic>, 9 (2), 100307. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.esxm.2020.100307">https://doi.org/10.1016/j.esxm.2020.100307</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Arcos</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Dewitte</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Individual, Relational, and Sociocultural Determinants of Sexual Function and Sexual Satisfaction in Ecuador</article-title>
+					<source>Sexual Medicine</source>
+					<volume>9</volume>
+					<issue>2</issue>
+					<fpage>100307</fpage>
+					<lpage>100307</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.esxm.2020.100307">https://doi.org/10.1016/j.esxm.2020.100307</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Armstrong, J., Thorpe, S., &amp; Williams, D. (2021). Sexual Attitudes, Religious Commitment, and Sexual Risk Behaviours among College-Aged Women: A Feminist Theory Approach. <italic>Journal of Gender Studies</italic>, <italic>30</italic> (8), 875-886. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/09589236.2020.1838888">https://doi.org/10.1080/09589236.2020.1838888</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Armstrong</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Thorpe</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Williams</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Sexual Attitudes, Religious Commitment, and Sexual Risk Behaviours among College-Aged Women: A Feminist Theory Approach</article-title>
+					<source>Journal of Gender Studies</source>
+					<volume>30</volume>
+					<issue>8</issue>
+					<fpage>875</fpage>
+					<lpage>886</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/09589236.2020.1838888">https://doi.org/10.1080/09589236.2020.1838888</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Ato, M., López, J. J., &amp; Benavente, A. (2013). A classiﬁcation system for research designs in psychology. <italic>Anales de Psicología</italic>, <italic>29</italic> (3), 1038-1059. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.6018/analesps.29.3.178511">https://doi.org/10.6018/analesps.29.3.178511</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ato</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>López</surname>
+							<given-names>J. J.</given-names>
+						</name>
+						<name>
+							<surname>Benavente</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>A classiﬁcation system for research designs in psychology</article-title>
+					<source>Anales de Psicología</source>
+					<volume>29</volume>
+					<issue>3</issue>
+					<fpage>1038</fpage>
+					<lpage>1059</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.6018/analesps.29.3.178511">https://doi.org/10.6018/analesps.29.3.178511</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Benavente, M. C., &amp; Vergara, C. (2006). <italic>Sexualidad en hombres y mujeres. Diversidad de miradas</italic>. FLACSO</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Benavente</surname>
+							<given-names>M. C.</given-names>
+						</name>
+						<name>
+							<surname>Vergara</surname>
+							<given-names>C.</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<source>Sexualidad en hombres y mujeres. Diversidad de miradas</source>
+					<publisher-name>FLACSO</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Caron, S. L., Davis, C. M., Halteman, W. A., &amp; Stickle, M. (1993). Predictors of Condom-Related Behaviors Among First-Year College Students. <italic>The Journal of Sex Research</italic>, <italic>30</italic> (3), 252-259. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/00224499309551709">https://doi.org/10.1080/00224499309551709</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Caron</surname>
+							<given-names>S. L.</given-names>
+						</name>
+						<name>
+							<surname>Davis</surname>
+							<given-names>C. M.</given-names>
+						</name>
+						<name>
+							<surname>Halteman</surname>
+							<given-names>W. A.</given-names>
+						</name>
+						<name>
+							<surname>Stickle</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>1993</year>
+					<article-title>Predictors of Condom-Related Behaviors Among First-Year College Students</article-title>
+					<source>The Journal of Sex Research</source>
+					<volume>30</volume>
+					<issue>3</issue>
+					<fpage>252</fpage>
+					<lpage>259</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/00224499309551709">https://doi.org/10.1080/00224499309551709</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Cohen, J. (1988). Statistical Power Analysis for the Behavioral Sciences (2nd). <italic>Lawrence Erlbaum</italic></mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cohen</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>1988</year>
+					<source>Statistical Power Analysis for the Behavioral Sciences</source>
+					<edition>2</edition>
+					<publisher-name>Lawrence Erlbaum</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Crawford, M., &amp; Popp, D. (2003). Sexual Double Standards: A Review and Methodological Critique of Two Decades of Research. <italic>Journal of Sex Research</italic>, <italic>40</italic> (1), 13-26. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/00224490309552163">https://doi.org/10.1080/00224490309552163</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Crawford</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Popp</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<year>2003</year>
+					<article-title>Sexual Double Standards: A Review and Methodological Critique of Two Decades of Research</article-title>
+					<source>Journal of Sex Research</source>
+					<volume>40</volume>
+					<issue>1</issue>
+					<fpage>13</fpage>
+					<lpage>26</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/00224490309552163">https://doi.org/10.1080/00224490309552163</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Eagly, A., &amp; Wood, W. (1999). The Origins of Sex Differences in Human Behavior: Evolved Dispositions Versus Social Roles. <italic>American Psychologist</italic>, <italic>54</italic> (6), 408-423. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/0003-066X.54.6.408">https://doi.org/10.1037/0003-066X.54.6.408</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Eagly</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Wood</surname>
+							<given-names>W.</given-names>
+						</name>
+					</person-group>
+					<year>1999</year>
+					<article-title>The Origins of Sex Differences in Human Behavior: Evolved Dispositions Versus Social Roles</article-title>
+					<source>American Psychologist</source>
+					<volume>54</volume>
+					<issue>6</issue>
+					<fpage>408</fpage>
+					<lpage>423</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/0003-066X.54.6.408">https://doi.org/10.1037/0003-066X.54.6.408</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Elgueta-Rosas, R., Santoni, A., &amp; Fediakova, E. (2019). La persistencia de la fe: Cambios y vigencia del clivaje político-religioso en Chile (1938-2017). <italic>Estudos Ibero-Americanos</italic>, <italic>45</italic> (2), 149-162. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.15448/1980-864X.2019.2.31335">https://doi.org/10.15448/1980-864X.2019.2.31335</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Elgueta-Rosas</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Santoni</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Fediakova</surname>
+							<given-names>E.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>La persistencia de la fe: Cambios y vigencia del clivaje político-religioso en Chile (1938-2017)</article-title>
+					<source>Estudos Ibero-Americanos</source>
+					<volume>45</volume>
+					<issue>2</issue>
+					<fpage>149</fpage>
+					<lpage>162</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.15448/1980-864X.2019.2.31335">https://doi.org/10.15448/1980-864X.2019.2.31335</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Elosua, P., &amp; Zumbo, B. D. (2008). Coeﬁcientes de ﬁabilidad para escalas de respuesta categórica ordenada. <italic>Psicothema</italic>, <italic>20</italic> (4), 896-901</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Elosua</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Zumbo</surname>
+							<given-names>B. D.</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<article-title>Coeﬁcientes de ﬁabilidad para escalas de respuesta categórica ordenada</article-title>
+					<source>Psicothema</source>
+					<volume>20</volume>
+					<issue>4</issue>
+					<fpage>896</fpage>
+					<lpage>901</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Endendijk, J. J., Baar, A. L., &amp; Dekovi, M. (2020). He is a stud, she is a slut! A meta-analysis on the continued existence of sexual double standards. <italic>Personality and Social Psychology Review</italic>, <italic>24</italic> (2), 163-190. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/1088868319891310">https://doi.org/10.1177/1088868319891310</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Endendijk</surname>
+							<given-names>J. J.</given-names>
+						</name>
+						<name>
+							<surname>Baar</surname>
+							<given-names>A. L.</given-names>
+						</name>
+						<name>
+							<surname>Dekovi</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>He is a stud, she is a slut! A meta-analysis on the continued existence of sexual double standards</article-title>
+					<source>Personality and Social Psychology Review</source>
+					<volume>24</volume>
+					<issue>2</issue>
+					<fpage>163</fpage>
+					<lpage>190</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/1088868319891310">https://doi.org/10.1177/1088868319891310</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Fasula, A. M., Carry, M., &amp; Miller, K. S. (2014). A Multidimensional Framework for the Meanings of the Sexual Double Standard and its Application for the Sexual Health of Young Black Women in the U.S. <italic>The Journal of Sex Research</italic> , <italic>51</italic> (2), 170-183. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/00224499.2012.716874">https://doi.org/10.1080/00224499.2012.716874</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fasula</surname>
+							<given-names>A. M.</given-names>
+						</name>
+						<name>
+							<surname>Carry</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Miller</surname>
+							<given-names>K. S.</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>A Multidimensional Framework for the Meanings of the Sexual Double Standard and its Application for the Sexual Health of Young Black Women in the U.S.</article-title>
+					<source>The Journal of Sex Research</source>
+					<volume>51</volume>
+					<issue>2</issue>
+					<fpage>170</fpage>
+					<lpage>183</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/00224499.2012.716874">https://doi.org/10.1080/00224499.2012.716874</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Fugère, M. A., Escoto, C., Cousins, A. J., Riggs, M. L., &amp; Haerich, P. (2008). Sexual attitudes and double standards: A literature review focusing on participant gender and ethnic background. <italic>Sexuality and Culture</italic>, <italic>12</italic> (3), 169-182. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s12119-008-9029-7">https://doi.org/10.1007/s12119-008-9029-7</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fugère</surname>
+							<given-names>M. A.</given-names>
+						</name>
+						<name>
+							<surname>Escoto</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Cousins</surname>
+							<given-names>A. J.</given-names>
+						</name>
+						<name>
+							<surname>Riggs</surname>
+							<given-names>M. L.</given-names>
+						</name>
+						<name>
+							<surname>Haerich</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<article-title>Sexual attitudes and double standards: A literature review focusing on participant gender and ethnic background</article-title>
+					<source>Sexuality and Culture</source>
+					<volume>12</volume>
+					<issue>3</issue>
+					<fpage>169</fpage>
+					<lpage>182</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s12119-008-9029-7">https://doi.org/10.1007/s12119-008-9029-7</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>García-Cueto, E., Rodríguez-Díaz, F. J., Bringas-Molleda, C., López-Cepero, J., Paíno-Quesada, S., &amp; Rodríguez-Franco, L. (2015). Development of the gender role attitudes scale (GRAS) amongst young Spanish people. <italic>International Journal of Clinical and Health Psychology</italic>, <italic>15</italic> (1), 61-68. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.ijchp.2014.10.004">https://doi.org/10.1016/j.ijchp.2014.10.004</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>García-Cueto</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Rodríguez-Díaz</surname>
+							<given-names>F. J.</given-names>
+						</name>
+						<name>
+							<surname>Bringas-Molleda</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>López-Cepero</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Paíno-Quesada</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Rodríguez-Franco</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Development of the gender role attitudes scale (GRAS) amongst young Spanish people</article-title>
+					<source>International Journal of Clinical and Health Psychology</source>
+					<volume>15</volume>
+					<issue>1</issue>
+					<fpage>61</fpage>
+					<lpage>68</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.ijchp.2014.10.004">https://doi.org/10.1016/j.ijchp.2014.10.004</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Gómez-Berrocal, M., Vallejo-Medina, P., Moyano, N., &amp; Sierra, J. (2019). Sexual Double Standard : A Psychometric Study From a Macropsychological Perspective Among the Spanish Heterosexual Population. <italic>Frontiers in Psychology</italic>, <italic>10</italic> (1869), 1-14. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3389/fpsyg.2019. 01869">https://doi.org/10.3389/fpsyg.2019. 01869</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gómez-Berrocal</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Vallejo-Medina</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Moyano</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Sierra</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Sexual Double Standard : A Psychometric Study From a Macropsychological Perspective Among the Spanish Heterosexual Population</article-title>
+					<source>Frontiers in Psychology</source>
+					<volume>10</volume>
+					<issue>1869</issue>
+					<fpage>1</fpage>
+					<lpage>14</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3389/fpsyg.2019. 01869">https://doi.org/10.3389/fpsyg.2019. 01869</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Greene, K., &amp; Faulkner, S. L. (2005). Gender, Belief in the Sexual Double Standard, and Sexual Talk in Heterosexual Dating Relationships 1. <italic>Sex Roles</italic>, <italic>53</italic>, 239-251. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s11199-005-5682-6">https://doi.org/10.1007/s11199-005-5682-6</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Greene</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Faulkner</surname>
+							<given-names>S. L.</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<article-title>Gender, Belief in the Sexual Double Standard, and Sexual Talk in Heterosexual Dating Relationships 1</article-title>
+					<source>Sex Roles</source>
+					<volume>53</volume>
+					<fpage>239</fpage>
+					<lpage>251</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s11199-005-5682-6">https://doi.org/10.1007/s11199-005-5682-6</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Growth from Knowledge. (2019). <italic>Microestudio sexualidad 2019</italic>. Growth from Knowledge. <ext-link ext-link-type="uri" xlink:href="https://www.docdroid.net/L8gQonK/gfk-microestudio-chile3d-sexualidad-2019-pdf">https://www.docdroid.net/L8gQonK/gfk-microestudio-chile3d-sexualidad-2019-pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>Growth from Knowledge</collab>
+					</person-group>
+					<year>2019</year>
+					<source>Microestudio sexualidad 2019</source>
+					<publisher-name>Growth from Knowledge</publisher-name>
+					<ext-link ext-link-type="uri" xlink:href="https://www.docdroid.net/L8gQonK/gfk-microestudio-chile3d-sexualidad-2019-pdf">https://www.docdroid.net/L8gQonK/gfk-microestudio-chile3d-sexualidad-2019-pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Guo, Y. (2019). Sexual Double Standards in White and Asian Americans: Ethnicity, Gender, and Acculturation. <italic>Sexuality and Culture</italic> , <italic>23</italic> (1), 57-95. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s12119-018-9543-1">https://doi.org/10.1007/s12119-018-9543-1</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Guo</surname>
+							<given-names>Y.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Sexual Double Standards in White and Asian Americans: Ethnicity, Gender, and Acculturation</article-title>
+					<source>Sexuality and Culture</source>
+					<volume>23</volume>
+					<issue>1</issue>
+					<fpage>57</fpage>
+					<lpage>95</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s12119-018-9543-1">https://doi.org/10.1007/s12119-018-9543-1</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Haavio-Mannila, E., &amp; Kontula, O. (2003). Single and double sexual standards in Finland, Estonia, and St. Petersburg. <italic>Journal of Sex Research</italic> , <italic>40</italic> (1), 36-49. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/00224490309552165">https://doi.org/10.1080/00224490309552165</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Haavio-Mannila</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Kontula</surname>
+							<given-names>O.</given-names>
+						</name>
+					</person-group>
+					<year>2003</year>
+					<article-title>Single and double sexual standards in Finland, Estonia, and St. Petersburg</article-title>
+					<source>Journal of Sex Research</source>
+					<volume>40</volume>
+					<issue>1</issue>
+					<fpage>36</fpage>
+					<lpage>49</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/00224490309552165">https://doi.org/10.1080/00224490309552165</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Hood, R. W., Hill, P. C., &amp; Spilka, B. (2018). <italic>The Psychology of Religion: An Empirical Approach</italic> (5th). The Guilford Press</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hood</surname>
+							<given-names>R. W.</given-names>
+						</name>
+						<name>
+							<surname>Hill</surname>
+							<given-names>P. C.</given-names>
+						</name>
+						<name>
+							<surname>Spilka</surname>
+							<given-names>B.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<source>The Psychology of Religion: An Empirical Approach</source>
+					<edition>5</edition>
+					<publisher-name>The Guilford Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Hu, L., &amp; Bentler, P. M. (1999). Cutoﬀ criteria for ﬁt indexes in covariance structure analysis: Conventional criteria versus new alternatives. <italic>Structural Equation Modeling: A Multidisciplinary Journal</italic>, 6 (1), 1-55. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/10705519909540118">https://doi.org/10.1080/10705519909540118</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hu</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Bentler</surname>
+							<given-names>P. M.</given-names>
+						</name>
+					</person-group>
+					<year>1999</year>
+					<article-title>Cutoﬀ criteria for ﬁt indexes in covariance structure analysis: Conventional criteria versus new alternatives</article-title>
+					<source>Structural Equation Modeling: A Multidisciplinary Journal</source>
+					<volume>6</volume>
+					<issue>1</issue>
+					<fpage>1</fpage>
+					<lpage>55</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/10705519909540118">https://doi.org/10.1080/10705519909540118</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Instituto Nacional de la Juventud. (2019). <italic>9◦ Encuesta Nacional de la Juventud 2018</italic>. Departamento de planiﬁcación y estudios. <ext-link ext-link-type="uri" xlink:href="http://www.injuv.gob.cl/storage/docs/9">http://www.injuv.gob.cl/storage/docs/9</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>Instituto Nacional de la Juventud</collab>
+					</person-group>
+					<year>2019</year>
+					<source>9◦ Encuesta Nacional de la Juventud 2018</source>
+					<publisher-name>Departamento de planiﬁcación y estudios</publisher-name>
+					<ext-link ext-link-type="uri" xlink:href="http://www.injuv.gob.cl/storage/docs/9">http://www.injuv.gob.cl/storage/docs/9</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Kim, Y., Lee, E., &amp; Lee, H. (2019). Sexual Double Standard, Dating Violence Recognition, and Sexual Assertiveness among University Students in South Korea. <italic>Asian Nursing Research</italic>, <italic>13</italic> (1), 47-52. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.anr.2019.01.003">https://doi.org/10.1016/j.anr.2019.01.003</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kim</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Lee</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Lee</surname>
+							<given-names>H.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Sexual Double Standard, Dating Violence Recognition, and Sexual Assertiveness among University Students in South Korea</article-title>
+					<source>Asian Nursing Research</source>
+					<volume>13</volume>
+					<issue>1</issue>
+					<fpage>47</fpage>
+					<lpage>52</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.anr.2019.01.003">https://doi.org/10.1016/j.anr.2019.01.003</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Lee, I. C., Pratto, F., &amp; Johnsen, B. T. (2011). Intergroup consensus/disagreement in support of group-based hierarchy: An examination of sociostructural and psycho-cultural factors. <italic>Psychological Bulletin</italic>, <italic>137</italic>, 1029-1064. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/a0025410">https://doi.org/10.1037/a0025410</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lee</surname>
+							<given-names>I. C.</given-names>
+						</name>
+						<name>
+							<surname>Pratto</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Johnsen</surname>
+							<given-names>B. T.</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>Intergroup consensus/disagreement in support of group-based hierarchy: An examination of sociostructural and psycho-cultural factors</article-title>
+					<source>Psychological Bulletin</source>
+					<volume>137</volume>
+					<fpage>1029</fpage>
+					<lpage>1064</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/a0025410">https://doi.org/10.1037/a0025410</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Li, C. H. (2014). <italic>The performance of MLR, USLMV, and WLSMV estimation in structural regression models with ordinal variables (Unpublished doctoral dissertation)</italic>. Michigan State University.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Li</surname>
+							<given-names>C. H.</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<source>The performance of MLR, USLMV, and WLSMV estimation in structural regression models with ordinal variables (Unpublished doctoral dissertation)</source>
+					<publisher-name>Michigan State University</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Monge, F. S., Sierra, J. C., &amp; Salinas, J. M. (2013). Equivalencia factorial y métrica de la Double Standard Scale por sexo y edad. <italic>Suma Psicológica</italic>, <italic>20</italic> (1), 7-14.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Monge</surname>
+							<given-names>F. S.</given-names>
+						</name>
+						<name>
+							<surname>Sierra</surname>
+							<given-names>J. C.</given-names>
+						</name>
+						<name>
+							<surname>Salinas</surname>
+							<given-names>J. M.</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>Equivalencia factorial y métrica de la Double Standard Scale por sexo y edad</article-title>
+					<source>Suma Psicológica</source>
+					<volume>20</volume>
+					<issue>1</issue>
+					<fpage>7</fpage>
+					<lpage>14</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Muehlenhard, C. L., &amp; McCoy, M. (1991). Double Standard/Double Bind: The Sexual Double Standard and women’s communication about sex. <italic>Psychology of Women Quarterly</italic>, <italic>15</italic>, 447-461.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Muehlenhard</surname>
+							<given-names>C. L.</given-names>
+						</name>
+						<name>
+							<surname>McCoy</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>1991</year>
+					<article-title>Double Standard/Double Bind: The Sexual Double Standard and women’s communication about sex</article-title>
+					<source>Psychology of Women Quarterly</source>
+					<volume>15</volume>
+					<fpage>447</fpage>
+					<lpage>461</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Muehlenhard, C. L., &amp; Quackenbush, D. M. (1998). Sexual Double Standard Scale. In C. M. Davis, W. L. Yarber, R. Bauserman, G. Schreer, &amp; S. L. Davis (Eds.), <italic>Handbook of sexualityrelated measures</italic> (pp. 199-201). SAGE</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Muehlenhard</surname>
+							<given-names>C. L.</given-names>
+						</name>
+						<name>
+							<surname>Quackenbush</surname>
+							<given-names>D. M.</given-names>
+						</name>
+					</person-group>
+					<year>1998</year>
+					<chapter-title>Sexual Double Standard Scale</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Davis</surname>
+							<given-names>C. M.</given-names>
+						</name>
+						<name>
+							<surname>Yarber</surname>
+							<given-names>W. L.</given-names>
+						</name>
+						<name>
+							<surname>Bauserman</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Schreer</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Davis</surname>
+							<given-names>S. L.</given-names>
+						</name>
+					</person-group>
+					<source>Handbook of sexualityrelated measures</source>
+					<fpage>199</fpage>
+					<lpage>201</lpage>
+					<publisher-name>SAGE</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Pérez, B., Concha-Salgado, A., Aburto, V., Mandiola, C., Muñoz, C., &amp; Cerda, D. (2022). Religiosity, abortion stigma and the mediating eﬀect of gender attitudes. A study in the Chilean population [in press]. <italic>International Journal of Social Psychology/Revista de Psicología Social</italic>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/02134748.2022.2034290">https://doi.org/10.1080/02134748.2022.2034290</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pérez</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Concha-Salgado</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Aburto</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Mandiola</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Muñoz</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Cerda</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Religiosity, abortion stigma and the mediating eﬀect of gender attitudes. A study in the Chilean population</article-title>
+					<source>International Journal of Social Psychology/Revista de Psicología Social</source>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/02134748.2022.2034290">https://doi.org/10.1080/02134748.2022.2034290</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Pérez, B., Concha-Salgado, A., Fernández-Suárez, A., Juarros-Basterretxea, J., &amp; Rodríguez-Díaz, F. J. (2021). The Gender Role Attitude Scale (GRAS) as an alternative for the crisis its measurement in Latin America: A study in Chilean university students. <italic>Anales de Psicología</italic> , <italic>37</italic> (3), 567-576. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.6018/analesps.438431">https://doi.org/10.6018/analesps.438431</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pérez</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Concha-Salgado</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Fernández-Suárez</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Juarros-Basterretxea</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Rodríguez-Díaz</surname>
+							<given-names>F. J.</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>The Gender Role Attitude Scale (GRAS) as an alternative for the crisis its measurement in Latin America: A study in Chilean university students</article-title>
+					<source>Anales de Psicología</source>
+					<volume>37</volume>
+					<issue>3</issue>
+					<fpage>567</fpage>
+					<lpage>576</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.6018/analesps.438431">https://doi.org/10.6018/analesps.438431</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation>Pérez, B., Rosas, D., &amp; Rodríguez-Díaz, J. (2020). Dating Victimization Among Chilean University Students: Gender Roles and Christian Spirituality. <italic>International Journal of Psychological Research</italic>, <italic>13</italic> (2), 25-35. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.21500/20112084.4844">https://doi.org/10.21500/20112084.4844</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pérez</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Rosas</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Rodríguez-Díaz</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Dating Victimization Among Chilean University Students: Gender Roles and Christian Spirituality</article-title>
+					<source>International Journal of Psychological Research</source>
+					<volume>13</volume>
+					<issue>2</issue>
+					<fpage>25</fpage>
+					<lpage>35</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.21500/20112084.4844">https://doi.org/10.21500/20112084.4844</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation>Petersen, J. L., &amp; Hyde, J. S. (2010). A Meta-Analytic Review of Research on Gender Diﬀerences in Sexuality, 1993-2007. <italic>Psychological Bulletin</italic> , <italic>136</italic> (1), 21-38. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/a0017504">https://doi.org/10.1037/a0017504</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Petersen</surname>
+							<given-names>J. L.</given-names>
+						</name>
+						<name>
+							<surname>Hyde</surname>
+							<given-names>J. S.</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>A Meta-Analytic Review of Research on Gender Diﬀerences in Sexuality, 1993-2007</article-title>
+					<source>Psychological Bulletin</source>
+					<volume>136</volume>
+					<issue>1</issue>
+					<fpage>21</fpage>
+					<lpage>38</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1037/a0017504">https://doi.org/10.1037/a0017504</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B34">
+				<mixed-citation>Rodríguez-Mosquera, P. M. (2011). Masculine and feminine honor codes. <italic>Revista de Psicología Social</italic>, <italic>26</italic> (1), 63-72. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1174/021347411794078499">https://doi.org/10.1174/021347411794078499</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rodríguez-Mosquera</surname>
+							<given-names>P. M.</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>Masculine and feminine honor codes</article-title>
+					<source>Revista de Psicología Social</source>
+					<volume>26</volume>
+					<issue>1</issue>
+					<fpage>63</fpage>
+					<lpage>72</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1174/021347411794078499">https://doi.org/10.1174/021347411794078499</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B35">
+				<mixed-citation>Rudman, L. A., Fetterolf, J. C., &amp; Sanchez, D. T. (2013). What motivates the Sexual double Standard? More support for male versus female control theory. <italic>Personality and Social Psychology Bulletin</italic>, <italic>39</italic> (2), 250-263. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/0146167212472375">https://doi.org/10.1177/0146167212472375</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rudman</surname>
+							<given-names>L. A.</given-names>
+						</name>
+						<name>
+							<surname>Fetterolf</surname>
+							<given-names>J. C.</given-names>
+						</name>
+						<name>
+							<surname>Sanchez</surname>
+							<given-names>D. T.</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>What motivates the Sexual double Standard? More support for male versus female control theory</article-title>
+					<source>Personality and Social Psychology Bulletin</source>
+					<volume>39</volume>
+					<issue>2</issue>
+					<fpage>250</fpage>
+					<lpage>263</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/0146167212472375">https://doi.org/10.1177/0146167212472375</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B36">
+				<mixed-citation>Sagebin-Bordini, G., &amp; Sperb, T. M. (2013). Sexual Double Standard: A Review of the Literature Between 2001 and 2010. <italic>Sexuality and Culture</italic> , <italic>17</italic>, 686-704. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s12119012-9163-0">https://doi.org/10.1007/s12119012-9163-0</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sagebin-Bordini</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Sperb</surname>
+							<given-names>T. M.</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>Sexual Double Standard: A Review of the Literature Between 2001 and 2010</article-title>
+					<source>Sexuality and Culture</source>
+					<volume>17</volume>
+					<fpage>686</fpage>
+					<lpage>704</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s12119012-9163-0">https://doi.org/10.1007/s12119012-9163-0</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B37">
+				<mixed-citation>Sakaluk, J. K., &amp; Milhausen, R. R. (2012). Factors inﬂuencing university students’ explicit and implicit sexual double standards. <italic>Journal of Sex</italic>, <italic>49</italic> (5), 464-476. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/00224499.2011.569976">https://doi.org/10.1080/00224499.2011.569976</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sakaluk</surname>
+							<given-names>J. K.</given-names>
+						</name>
+						<name>
+							<surname>Milhausen</surname>
+							<given-names>R. R.</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>Factors inﬂuencing university students’ explicit and implicit sexual double standards</article-title>
+					<source>Journal of Sex</source>
+					<volume>49</volume>
+					<issue>5</issue>
+					<fpage>464</fpage>
+					<lpage>476</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/00224499.2011.569976">https://doi.org/10.1080/00224499.2011.569976</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B38">
+				<mixed-citation>Sciurano, G., Melamud, M., &amp; Alquezar, M. (2021). (Re) producción de estereotipos de género en el BudismoSoka argentino. <italic>Revista Punto Género</italic>, <italic>16</italic>, 145-168. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5354/07190417.2021.65884">https://doi.org/10.5354/07190417.2021.65884</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sciurano</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Melamud</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Alquezar</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>(Re) producción de estereotipos de género en el BudismoSoka argentino</article-title>
+					<source>Revista Punto Género</source>
+					<volume>16</volume>
+					<fpage>145</fpage>
+					<lpage>168</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5354/07190417.2021.65884">https://doi.org/10.5354/07190417.2021.65884</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B39">
+				<mixed-citation>Seguino, S. (2011). Help or Hindrance? Religion’s Impact on Gender Inequality in Attitudes and Outcomes. <italic>World Development</italic>, <italic>39</italic> (8), 1308-1321. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.worlddev.2010.12.004">https://doi.org/10.1016/j.worlddev.2010.12.004</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Seguino</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>Help or Hindrance? Religion’s Impact on Gender Inequality in Attitudes and Outcomes</article-title>
+					<source>World Development</source>
+					<volume>39</volume>
+					<issue>8</issue>
+					<fpage>1308</fpage>
+					<lpage>1321</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.worlddev.2010.12.004">https://doi.org/10.1016/j.worlddev.2010.12.004</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B40">
+				<mixed-citation>Sierra, J. C., Costa, N., &amp; Ortega, V. (2009). A validation study of the double standard scale and the rape supportive attitude scale in Brazilian women. <italic>International Journal of Psychology Research</italic>, 2 (2), 90-98. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.21500/20112084.864">https://doi.org/10.21500/20112084.864</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sierra</surname>
+							<given-names>J. C.</given-names>
+						</name>
+						<name>
+							<surname>Costa</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Ortega</surname>
+							<given-names>V.</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>A validation study of the double standard scale and the rape supportive attitude scale in Brazilian women</article-title>
+					<source>International Journal of Psychology Research</source>
+					<volume>2</volume>
+					<issue>2</issue>
+					<fpage>90</fpage>
+					<lpage>98</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.21500/20112084.864">https://doi.org/10.21500/20112084.864</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B41">
+				<mixed-citation>Sierra, J. C., &amp; Gutiérrez-Quintanilla, J. (2007). Estudio psicométrico de la versión salvadoreña de la Double Standard Scale. <italic>Cuadernos de Medicina Psicosomática y Psiquiatría de Enlace</italic>, <italic>82</italic>, 23- 30</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sierra</surname>
+							<given-names>J. C.</given-names>
+						</name>
+						<name>
+							<surname>Gutiérrez-Quintanilla</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<article-title>Estudio psicométrico de la versión salvadoreña de la Double Standard Scale</article-title>
+					<source>Cuadernos de Medicina Psicosomática y Psiquiatría de Enlace</source>
+					<volume>82</volume>
+					<fpage>23</fpage>
+					<lpage> 30</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B42">
+				<mixed-citation>Sierra, J. C., Monge, F. S., Santos-Iglesias, P., Rodríguez, K., &amp; Aparicio, D. L. (2010). Propiedades psicométricas de las versiones en español de la Double Standard Scale (DDS) y de la Rape Supportive Attitude Scale (RSAS) en mujeres peruanas. <italic>Cuaderno de Medicina Psicosomática y Psiquiatría de Enlace</italic>, <italic>95</italic>, 57-66</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sierra</surname>
+							<given-names>J. C.</given-names>
+						</name>
+						<name>
+							<surname>Monge</surname>
+							<given-names>F. S.</given-names>
+						</name>
+						<name>
+							<surname>Santos-Iglesias</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Rodríguez</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Aparicio</surname>
+							<given-names>D. L.</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>Propiedades psicométricas de las versiones en español de la Double Standard Scale (DDS) y de la Rape Supportive Attitude Scale (RSAS) en mujeres peruanas</article-title>
+					<source>Cuaderno de Medicina Psicosomática y Psiquiatría de Enlace</source>
+					<volume>95</volume>
+					<fpage>57</fpage>
+					<lpage>66</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B43">
+				<mixed-citation>Sierra, J. C., Moyano, N., Vallejo-Medina, P., &amp; Gómez Berrocal, C. (2018). An abridged spanish version of sexual double standard scale: Factorial structure, reliability and validity evidence. <italic>International Journal of Clinical and Health Psychology</italic> , <italic>18</italic> (1), 69-80. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.ijchp.2017.05.003">https://doi.org/10.1016/j.ijchp.2017.05.003</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sierra</surname>
+							<given-names>J. C.</given-names>
+						</name>
+						<name>
+							<surname>Moyano</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Vallejo-Medina</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Gómez Berrocal</surname>
+							<given-names>C.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>An abridged spanish version of sexual double standard scale: Factorial structure, reliability and validity evidence</article-title>
+					<source>International Journal of Clinical and Health Psychology</source>
+					<volume>18</volume>
+					<issue>1</issue>
+					<fpage>69</fpage>
+					<lpage>80</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.ijchp.2017.05.003">https://doi.org/10.1016/j.ijchp.2017.05.003</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B44">
+				<mixed-citation>Sierra, J. C., Rojas, A., Ortega, V., &amp; Ortiz, J. (2007). Evaluación de actitudes sexuales machistas en universitarios: primeros datos psicométricos de las versiones españolas de la Double Standard Scale (DSS) y de la Rape Supportive Attitude Scale (RSAS). <italic>International Journal of Psychology and Psychological Therapy</italic>, 7 (1), 41-60</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sierra</surname>
+							<given-names>J. C.</given-names>
+						</name>
+						<name>
+							<surname>Rojas</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Ortega</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Ortiz</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<article-title>Evaluación de actitudes sexuales machistas en universitarios: primeros datos psicométricos de las versiones españolas de la Double Standard Scale (DSS) y de la Rape Supportive Attitude Scale (RSAS)</article-title>
+					<source>International Journal of Psychology and Psychological Therapy</source>
+					<volume>7</volume>
+					<issue>1</issue>
+					<fpage>41</fpage>
+					<lpage>60</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B45">
+				<mixed-citation>Sierra, J. C., Santos-Iglesias, P., &amp; Gutiérrez-Quintanilla, J. R. (2010). Validación del índice de abuso en la pareja en mujeres de El Salvador. <italic>Revista Mexicana De Psicología</italic>, <italic>27</italic> (1), 5-14</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sierra</surname>
+							<given-names>J. C.</given-names>
+						</name>
+						<name>
+							<surname>Santos-Iglesias</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Gutiérrez-Quintanilla</surname>
+							<given-names>J. R.</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>Validación del índice de abuso en la pareja en mujeres de El Salvador</article-title>
+					<source>Revista Mexicana De Psicología</source>
+					<volume>27</volume>
+					<issue>1</issue>
+					<fpage>5</fpage>
+					<lpage>14</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B46">
+				<mixed-citation>Thomas, H. N., &amp; Thurston, R. C. (2016). A biopsychosocial approach to women’s sexual function and dysfunction at midlife: A narrative review. <italic>Maturitas</italic>, <italic>87</italic>, 49-60. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.maturitas.2016.02.009">https://doi.org/10.1016/j.maturitas.2016.02.009</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Thomas</surname>
+							<given-names>H. N.</given-names>
+						</name>
+						<name>
+							<surname>Thurston</surname>
+							<given-names>R. C.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>A biopsychosocial approach to women’s sexual function and dysfunction at midlife: A narrative review</article-title>
+					<source>Maturitas</source>
+					<volume>87</volume>
+					<fpage>49</fpage>
+					<lpage>60</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.maturitas.2016.02.009">https://doi.org/10.1016/j.maturitas.2016.02.009</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B47">
+				<mixed-citation>Ubillos, S., Goiburu, E., Puente, A., &amp; Pizarro, J. P. (2016). Adaptation and validation of the Double Standard Scale in Basque adolescents [Adaptación y validación de la Escala de Doble Estándar en adolescentes vascasos]. <italic>Revista de Psicología Social</italic> , <italic>31</italic> (2), 368-397. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/02134748.2016.1152683">https://doi.org/10.1080/02134748.2016.1152683</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ubillos</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Goiburu</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Puente</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Pizarro</surname>
+							<given-names>J. P.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Adaptation and validation of the Double Standard Scale in Basque adolescents</article-title>
+					<comment>Adaptación y validación de la Escala de Doble Estándar en adolescentes vascasos</comment>
+					<source>Revista de Psicología Social</source>
+					<volume>31</volume>
+					<issue>2</issue>
+					<fpage>368</fpage>
+					<lpage>397</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/02134748.2016.1152683">https://doi.org/10.1080/02134748.2016.1152683</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B48">
+				<mixed-citation>Zaikman, Y., Marks, M., Young, T., &amp; Zeiber, J. (2016). Gender Role Violations and the Sexual Double Standard. <italic>Journal of Homosexuality</italic>, <italic>63</italic> (12), 1608-1629. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/00918369.2016.1158007">https://doi.org/10.1080/00918369.2016.1158007</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zaikman</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Marks</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Young</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Zeiber</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Gender Role Violations and the Sexual Double Standard</article-title>
+					<source>Journal of Homosexuality</source>
+					<volume>63</volume>
+					<issue>12</issue>
+					<fpage>1608</fpage>
+					<lpage>1629</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/00918369.2016.1158007">https://doi.org/10.1080/00918369.2016.1158007</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B49">
+				<mixed-citation>Zaikman, Y., &amp; Marks, M. J. (2017). Promoting TheoryBased Perspectives in Sexual Double Standard Research. <italic>Sex Roles : A Journal of Research</italic>, <italic>76</italic> (78), 407-420. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s11199-016-0677-z">https://doi.org/10.1007/s11199-016-0677-z</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zaikman</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Marks</surname>
+							<given-names>M. J.</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Promoting TheoryBased Perspectives in Sexual Double Standard Research</article-title>
+					<source>Sex Roles : A Journal of Research</source>
+					<volume>76</volume>
+					<issue>78</issue>
+					<fpage>407</fpage>
+					<lpage>420</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/s11199-016-0677-z">https://doi.org/10.1007/s11199-016-0677-z</ext-link>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<fn-group>
+			<fn fn-type="other" id="fn3">
+				<label>*</label>
+				<p><bold>Declaration of data availability:</bold> All relevant data are within the article, as well as the information support ﬁles.</p>
+			</fn>
+			<fn fn-type="other" id="fn4">
+				<label>**</label>
+				<p><bold>How to Cite:</bold> Díaz-Gutiérrez, C., Pérez, B., &amp; Concha Salgado, A. (2022). Psychometric properties of the Sexual Double Standard Scale (DSS) in Chilean university students: Differences according to sex, gender attitudes, and religiosity. International Journal of Psychologycal Research, 15 (2), 10-21. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.21500/20112084.5435">https://doi.org/10.21500/20112084.5435</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn1">
+				<label>Funding Source:</label>
+				<p> This work is part of project FONDECYT Nř11180588. This work was funded by the European Regional Development Funds (European Union and Principality of Asturias) through the Science, Technology, and Innovation Plan (AYUD/2021/51411). The authors declare no conﬂicts of interest.</p>
+			</fn>
+		</fn-group>
+	</back>
+</article>
