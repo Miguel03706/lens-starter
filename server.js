@@ -4,7 +4,7 @@ const bodyParser = require('body-parser');
 const cookieParser = require('cookie-parser');
 const methodOverride = require('method-override');
 const path = require('path');
-const sass = require('node-sass');
+const sass = require('sass');
 const browserify = require('browserify');
 
 const app = express();
@@ -18,19 +18,19 @@ app.get('/lens.js', function (req, res, next) {
   browserify({ debug: true, cache: false })
     .add(path.join(__dirname, "boot.js"))
     .bundle()
-    .on('error', function(err, data){
+    .on('error', function (err, data) {
       console.error(err.message);
-      res.send('console.log("'+err.message+'");');
+      res.send('console.log("' + err.message + '");');
     })
     .pipe(res);
 });
 
-var handleError = function(err, res) {
+var handleError = function (err, res) {
   console.error(err);
   res.status(400).json(err);
 };
 
-var renderSass = function(cb) {
+var renderSass = function (cb) {
   sass.render({
     file: path.join(__dirname, "lens.scss"),
     sourceMap: true,
@@ -38,16 +38,16 @@ var renderSass = function(cb) {
   }, cb);
 };
 
-app.get('/lens.css', function(req, res) {
-  renderSass(function(err, result) {
+app.get('/lens.css', function (req, res) {
+  renderSass(function (err, result) {
     if (err) return handleError(err, res);
     res.set('Content-Type', 'text/css');
     res.send(result.css);
   });
 });
 
-app.get('/lens.css.map', function(req, res) {
-  renderSass(function(err, result) {
+app.get('/lens.css.map', function (req, res) {
+  renderSass(function (err, result) {
     if (err) return handleError(err, res);
     res.set('Content-Type', 'text/css');
     res.send(result.map);
@@ -60,7 +60,7 @@ app.use(express.static(path.join(__dirname, 'assets')));
 
 // Serve Lens in dev mode
 // --------
-http.createServer(app).listen(port, function(){
+http.createServer(app).listen(port, function () {
   console.log("Lens running on port " + port);
-  console.log("http://127.0.0.1:"+port+"/");
+  console.log("http://127.0.0.1:" + port + "/");
 });
