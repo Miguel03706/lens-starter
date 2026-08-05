@@ -1,26 +1,25 @@
-/* Lens Base styles */
-@import 'node_modules/lens/article/nodes/text/text';
-@import 'node_modules/lens/article/nodes/paragraph/paragraph';
-@import 'node_modules/lens/article/nodes/heading/heading';
-@import 'node_modules/lens/article/nodes/list/list';
-@import 'node_modules/lens/article/nodes/image/image';
-@import 'node_modules/lens/article/nodes/codeblock/codeblock';
-@import 'node_modules/lens/article/nodes/cover/cover';
-@import 'node_modules/lens/article/nodes/supplement/supplement';
-@import 'node_modules/lens/article/nodes/box/box';
-@import 'node_modules/lens/article/nodes/citation/citation';
-@import 'node_modules/lens/article/nodes/definition/definition';
-@import 'node_modules/lens/article/nodes/figure/figure';
-@import 'node_modules/lens/article/nodes/html_table/html_table';
-@import 'node_modules/lens/article/nodes/video/video';
-@import 'node_modules/lens/article/nodes/caption/caption';
-@import 'node_modules/lens/article/nodes/contributor/contributor';
-@import 'node_modules/lens/article/nodes/publication_info/publication_info';
-@import 'node_modules/lens/styles/surface';
-@import 'node_modules/lens/styles/reader';
-@import 'node_modules/lens/styles/lens';
+@use "node_modules/lens/article/nodes/text/text";
+@use "node_modules/lens/article/nodes/paragraph/paragraph";
+@use "node_modules/lens/article/nodes/heading/heading";
+@use "node_modules/lens/article/nodes/list/list";
+@use "node_modules/lens/article/nodes/image/image";
+@use "node_modules/lens/article/nodes/codeblock/codeblock";
+@use "node_modules/lens/article/nodes/cover/cover";
+@use "node_modules/lens/article/nodes/supplement/supplement";
+@use "node_modules/lens/article/nodes/box/box";
+@use "node_modules/lens/article/nodes/citation/citation";
+@use "node_modules/lens/article/nodes/definition/definition";
+@use "node_modules/lens/article/nodes/figure/figure";
+@use "node_modules/lens/article/nodes/html_table/html_table";
+@use "node_modules/lens/article/nodes/video/video";
+@use "node_modules/lens/article/nodes/caption/caption";
+@use "node_modules/lens/article/nodes/contributor/contributor";
+@use "node_modules/lens/article/nodes/publication_info/publication_info";
+@use "node_modules/lens/styles/surface";
+@use "node_modules/lens/styles/reader";
+@use "node_modules/lens/styles/lens";
 
-// Custom styles
+/* Custom styles */
 
 .altmetrics-panel .altmetrics {
   padding: 20px;
